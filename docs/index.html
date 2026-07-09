@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Job Radar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 24px; color: #1a1a1a; }
+        h1 { font-size: 22px; margin-bottom: 4px; }
+        .subtitle { color: #666; margin-bottom: 20px; font-size: 14px; }
+        form.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 14px; background: #f5f5f5; border-radius: 8px; margin-bottom: 20px; }
+        form.filters label { font-size: 14px; display: flex; align-items: center; gap: 5px; cursor: pointer; }
+        .job { padding: 14px 0; border-bottom: 1px solid #e5e5e5; }
+        .job h2 { font-size: 16px; margin: 0 0 4px; }
+        .job h2 a { color: #1a1a1a; text-decoration: none; }
+        .job h2 a:hover { text-decoration: underline; }
+        .job .meta { font-size: 13px; color: #666; margin-bottom: 6px; }
+        .job .tags span { display: inline-block; font-size: 11px; background: #eef; color: #334; padding: 2px 7px; border-radius: 10px; margin-right: 4px; }
+        .empty { padding: 40px 0; text-align: center; color: #888; }
+        #load-more { display: block; margin: 20px auto; padding: 8px 20px; border: 1px solid #ccc; background: #fff; border-radius: 6px; cursor: pointer; }
+        #load-more[hidden] { display: none; }
+        .generated { color: #999; font-size: 12px; margin-top: 24px; }
+    </style>
+</head>
+<body>
+    <h1>Job Radar</h1>
+    <p class="subtitle">Tech-stack-filtered job postings, pulled from public job board APIs and company ATS feeds.</p>
+
+    <form class="filters" id="filters">
+        <span id="stack-checkboxes"></span>
+        <label>
+            <input type="checkbox" id="remote-only">
+            Remote only
+        </label>
+    </form>
+
+    <div id="results"></div>
+    <button id="load-more" hidden>Load more</button>
+    <p class="generated" id="generated"></p>
+
+    <script>
+        const PAGE_SIZE = 30;
+        let allJobs = [];
+        let visibleCount = PAGE_SIZE;
+
+        function paramsFromUrl() {
+            const url = new URL(window.location.href);
+            return {
+                stacks: url.searchParams.getAll('stacks'),
+                remote: url.searchParams.get('remote') === '1',
+            };
+        }
+
+        function updateUrl(stacks, remote) {
+            const url = new URL(window.location.href);
+            url.searchParams.delete('stacks');
+            stacks.forEach(s => url.searchParams.append('stacks', s));
+            if (remote) {
+                url.searchParams.set('remote', '1');
+            } else {
+                url.searchParams.delete('remote');
+            }
+            history.replaceState(null, '', url);
+        }
+
+        function selectedStacks() {
+            return Array.from(document.querySelectorAll('#stack-checkboxes input:checked')).map(el => el.value);
+        }
+
+        function filteredJobs() {
+            const stacks = selectedStacks();
+            const remoteOnly = document.getElementById('remote-only').checked;
+
+            return allJobs.filter(job => {
+                if (stacks.length > 0 && !job.tags.some(t => stacks.includes(t))) {
+                    return false;
+                }
+                if (remoteOnly && !job.is_remote) {
+                    return false;
+                }
+                return true;
+            });
+        }
+
+        function timeAgo(iso) {
+            if (!iso) return '';
+            const diffMs = Date.now() - new Date(iso).getTime();
+            const days = Math.floor(diffMs / 86400000);
+            if (days <= 0) return 'today';
+            if (days === 1) return '1 day ago';
+            return `${days} days ago`;
+        }
+
+        function render() {
+            visibleCount = PAGE_SIZE;
+            updateUrl(selectedStacks(), document.getElementById('remote-only').checked);
+            renderVisible();
+        }
+
+        function renderVisible() {
+            const results = document.getElementById('results');
+            const loadMore = document.getElementById('load-more');
+            const matches = filteredJobs();
+            const visible = matches.slice(0, visibleCount);
+
+            if (visible.length === 0) {
+                results.innerHTML = '<div class="empty">No postings match these filters yet. Try different stacks.</div>';
+                loadMore.hidden = true;
+                return;
+            }
+
+            results.innerHTML = visible.map(job => `
+                <div class="job">
+                    <h2><a href="${job.url}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h2>
+                    <div class="meta">
+                        ${escapeHtml(job.company)}
+                        ${job.location ? ' &middot; ' + escapeHtml(job.location) : ''}
+                        ${job.is_remote ? ' &middot; Remote' : ''}
+                        &middot; via ${escapeHtml(job.source)}
+                        ${job.posted_at ? ' &middot; ' + timeAgo(job.posted_at) : ''}
+                    </div>
+                    <div class="tags">${job.tags.map(t => `<span>${escapeHtml(t)}</span>`).join('')}</div>
+                </div>
+            `).join('');
+
+            loadMore.hidden = visibleCount >= matches.length;
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str ?? '';
+            return div.innerHTML;
+        }
+
+        document.getElementById('load-more').addEventListener('click', () => {
+            visibleCount += PAGE_SIZE;
+            renderVisible();
+        });
+
+        fetch('data/jobs.json')
+            .then(r => r.json())
+            .then(data => {
+                allJobs = data.jobs;
+
+                const initial = paramsFromUrl();
+                const stackCheckboxes = document.getElementById('stack-checkboxes');
+                stackCheckboxes.innerHTML = data.stacks.map(stack => `
+                    <label>
+                        <input type="checkbox" name="stacks" value="${stack}" ${initial.stacks.includes(stack) ? 'checked' : ''}>
+                        ${stack.charAt(0).toUpperCase() + stack.slice(1)}
+                    </label>
+                `).join('');
+                document.getElementById('remote-only').checked = initial.remote;
+
+                document.getElementById('filters').addEventListener('change', render);
+                document.getElementById('generated').textContent = 'Last synced: ' + new Date(data.generatedAt).toLocaleString();
+
+                render();
+            })
+            .catch(() => {
+                document.getElementById('results').innerHTML = '<div class="empty">Could not load job data.</div>';
+            });
+    </script>
+</body>
+</html>
