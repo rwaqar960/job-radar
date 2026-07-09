@@ -12,9 +12,16 @@ use Illuminate\Support\Carbon;
 #[Description('Export tagged job postings to docs/data/jobs.json for the static GitHub Pages frontend.')]
 class ExportStaticJobs extends Command
 {
+    private const MAX_AGE_DAYS = 30;
+
     public function handle(): int
     {
+        $cutoff = Carbon::now()->subDays(self::MAX_AGE_DAYS);
+
         $jobs = JobPosting::query()
+            ->where(function ($q) use ($cutoff) {
+                $q->whereNull('posted_at')->orWhere('posted_at', '>=', $cutoff);
+            })
             ->orderByDesc('posted_at')
             ->get()
             ->map(fn (JobPosting $job) => [
@@ -43,7 +50,8 @@ class ExportStaticJobs extends Command
 
         file_put_contents($path, json_encode($payload, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
-        $this->info('Exported '.count($jobs)." postings to {$path}");
+        $totalInDb = JobPosting::count();
+        $this->info('Exported '.count($jobs)." postings to {$path} (".($totalInDb - count($jobs))." older than ".self::MAX_AGE_DAYS." days excluded)");
 
         return self::SUCCESS;
     }

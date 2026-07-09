@@ -10,6 +10,7 @@
         .subtitle { color: #666; margin-bottom: 20px; font-size: 14px; }
         form.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 14px; background: #f5f5f5; border-radius: 8px; margin-bottom: 20px; }
         form.filters label { font-size: 14px; display: flex; align-items: center; gap: 5px; cursor: pointer; }
+        form.filters input[type="search"] { padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; flex: 1 1 200px; min-width: 160px; }
         .job { padding: 14px 0; border-bottom: 1px solid #e5e5e5; }
         .job h2 { font-size: 16px; margin: 0 0 4px; }
         .job h2 a { color: #1a1a1a; text-decoration: none; }
@@ -27,6 +28,7 @@
     <p class="subtitle">Tech-stack-filtered job postings, pulled from public job board APIs and company ATS feeds.</p>
 
     <form class="filters" id="filters">
+        <input type="search" id="search" placeholder="Search title or company&hellip;">
         <span id="stack-checkboxes"></span>
         <label>
             <input type="checkbox" id="remote-only">
@@ -48,10 +50,11 @@
             return {
                 stacks: url.searchParams.getAll('stacks'),
                 remote: url.searchParams.get('remote') === '1',
+                q: url.searchParams.get('q') || '',
             };
         }
 
-        function updateUrl(stacks, remote) {
+        function updateUrl(stacks, remote, q) {
             const url = new URL(window.location.href);
             url.searchParams.delete('stacks');
             stacks.forEach(s => url.searchParams.append('stacks', s));
@@ -59,6 +62,11 @@
                 url.searchParams.set('remote', '1');
             } else {
                 url.searchParams.delete('remote');
+            }
+            if (q) {
+                url.searchParams.set('q', q);
+            } else {
+                url.searchParams.delete('q');
             }
             history.replaceState(null, '', url);
         }
@@ -70,12 +78,16 @@
         function filteredJobs() {
             const stacks = selectedStacks();
             const remoteOnly = document.getElementById('remote-only').checked;
+            const q = document.getElementById('search').value.trim().toLowerCase();
 
             return allJobs.filter(job => {
                 if (stacks.length > 0 && !job.tags.some(t => stacks.includes(t))) {
                     return false;
                 }
                 if (remoteOnly && !job.is_remote) {
+                    return false;
+                }
+                if (q && !job.title.toLowerCase().includes(q) && !job.company.toLowerCase().includes(q)) {
                     return false;
                 }
                 return true;
@@ -93,7 +105,7 @@
 
         function render() {
             visibleCount = PAGE_SIZE;
-            updateUrl(selectedStacks(), document.getElementById('remote-only').checked);
+            updateUrl(selectedStacks(), document.getElementById('remote-only').checked, document.getElementById('search').value.trim());
             renderVisible();
         }
 
@@ -104,7 +116,7 @@
             const visible = matches.slice(0, visibleCount);
 
             if (visible.length === 0) {
-                results.innerHTML = '<div class="empty">No postings match these filters yet. Try different stacks.</div>';
+                results.innerHTML = '<div class="empty">No postings match these filters. Try a different search or stack selection.</div>';
                 loadMore.hidden = true;
                 return;
             }
@@ -151,8 +163,10 @@
                     </label>
                 `).join('');
                 document.getElementById('remote-only').checked = initial.remote;
+                document.getElementById('search').value = initial.q;
 
                 document.getElementById('filters').addEventListener('change', render);
+                document.getElementById('filters').addEventListener('input', render);
                 document.getElementById('generated').textContent = 'Last synced: ' + new Date(data.generatedAt).toLocaleString();
 
                 render();
