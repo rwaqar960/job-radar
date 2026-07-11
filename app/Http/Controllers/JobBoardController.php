@@ -11,6 +11,8 @@ class JobBoardController extends Controller
     {
         $allStacks = array_keys(config('job_sources.stacks', []));
         $selectedStacks = array_intersect($request->query('stacks', []), $allStacks);
+        $allSources = config('job_sources.sources', []);
+        $selectedSources = array_intersect($request->query('sources', []), array_keys($allSources));
         $remoteOnly = $request->boolean('remote');
 
         $query = JobPosting::query()->orderByDesc('posted_at');
@@ -23,6 +25,10 @@ class JobBoardController extends Controller
             });
         }
 
+        if (!empty($selectedSources)) {
+            $query->whereIn('source', $selectedSources);
+        }
+
         if ($remoteOnly) {
             $query->where('is_remote', true);
         }
@@ -33,6 +39,8 @@ class JobBoardController extends Controller
             'postings' => $postings,
             'allStacks' => $allStacks,
             'selectedStacks' => $selectedStacks,
+            'allSources' => $allSources,
+            'selectedSources' => $selectedSources,
             'remoteOnly' => $remoteOnly,
         ]);
     }

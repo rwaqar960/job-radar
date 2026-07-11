@@ -11,6 +11,8 @@
         form.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 14px; background: #f5f5f5; border-radius: 8px; margin-bottom: 20px; }
         form.filters label { font-size: 14px; display: flex; align-items: center; gap: 5px; cursor: pointer; }
         form.filters input[type="search"] { padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; flex: 1 1 200px; min-width: 160px; }
+        form.filters .sources { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; width: 100%; padding-top: 10px; margin-top: 4px; border-top: 1px solid #e5e5e5; }
+        form.filters .sources-label { font-size: 13px; color: #666; }
         .job { padding: 14px 0; border-bottom: 1px solid #e5e5e5; }
         .job h2 { font-size: 16px; margin: 0 0 4px; }
         .job h2 a { color: #1a1a1a; text-decoration: none; }
@@ -34,6 +36,10 @@
             <input type="checkbox" id="remote-only">
             Remote only
         </label>
+        <div class="sources">
+            <span class="sources-label">Sources:</span>
+            <span id="source-checkboxes"></span>
+        </div>
     </form>
 
     <div id="results"></div>
@@ -49,15 +55,18 @@
             const url = new URL(window.location.href);
             return {
                 stacks: url.searchParams.getAll('stacks'),
+                sources: url.searchParams.getAll('sources'),
                 remote: url.searchParams.get('remote') === '1',
                 q: url.searchParams.get('q') || '',
             };
         }
 
-        function updateUrl(stacks, remote, q) {
+        function updateUrl(stacks, sources, remote, q) {
             const url = new URL(window.location.href);
             url.searchParams.delete('stacks');
             stacks.forEach(s => url.searchParams.append('stacks', s));
+            url.searchParams.delete('sources');
+            sources.forEach(s => url.searchParams.append('sources', s));
             if (remote) {
                 url.searchParams.set('remote', '1');
             } else {
@@ -75,13 +84,21 @@
             return Array.from(document.querySelectorAll('#stack-checkboxes input:checked')).map(el => el.value);
         }
 
+        function selectedSources() {
+            return Array.from(document.querySelectorAll('#source-checkboxes input:checked')).map(el => el.value);
+        }
+
         function filteredJobs() {
             const stacks = selectedStacks();
+            const sources = selectedSources();
             const remoteOnly = document.getElementById('remote-only').checked;
             const q = document.getElementById('search').value.trim().toLowerCase();
 
             return allJobs.filter(job => {
                 if (stacks.length > 0 && !job.tags.some(t => stacks.includes(t))) {
+                    return false;
+                }
+                if (sources.length > 0 && !sources.includes(job.source)) {
                     return false;
                 }
                 if (remoteOnly && !job.is_remote) {
@@ -105,7 +122,7 @@
 
         function render() {
             visibleCount = PAGE_SIZE;
-            updateUrl(selectedStacks(), document.getElementById('remote-only').checked, document.getElementById('search').value.trim());
+            updateUrl(selectedStacks(), selectedSources(), document.getElementById('remote-only').checked, document.getElementById('search').value.trim());
             renderVisible();
         }
 
@@ -123,7 +140,7 @@
 
             results.innerHTML = visible.map(job => `
                 <div class="job">
-                    <h2><a href="${job.url}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h2>
+                    <h2><a href="${safeHref(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h2>
                     <div class="meta">
                         ${escapeHtml(job.company)}
                         ${job.location ? ' &middot; ' + escapeHtml(job.location) : ''}
@@ -144,6 +161,21 @@
             return div.innerHTML;
         }
 
+        // escapeHtml() only escapes &, <, > (DOM text-node serialization never
+        // escapes quotes), so it's not safe inside an href="..." attribute on
+        // its own. Restrict to http(s) and percent-encode quotes/etc. instead.
+        function safeHref(url) {
+            try {
+                const parsed = new URL(url, window.location.href);
+                if (parsed.protocol !== 'http:' && parsed.protocol !== 'https:') {
+                    return '#';
+                }
+                return encodeURI(parsed.href);
+            } catch {
+                return '#';
+            }
+        }
+
         document.getElementById('load-more').addEventListener('click', () => {
             visibleCount += PAGE_SIZE;
             renderVisible();
@@ -162,6 +194,15 @@
                         ${stack.charAt(0).toUpperCase() + stack.slice(1)}
                     </label>
                 `).join('');
+
+                const sourceCheckboxes = document.getElementById('source-checkboxes');
+                sourceCheckboxes.innerHTML = Object.entries(data.sources || {}).map(([key, label]) => `
+                    <label>
+                        <input type="checkbox" name="sources" value="${escapeHtml(key)}" ${initial.sources.includes(key) ? 'checked' : ''}>
+                        ${escapeHtml(label)}
+                    </label>
+                `).join('');
+
                 document.getElementById('remote-only').checked = initial.remote;
                 document.getElementById('search').value = initial.q;
 

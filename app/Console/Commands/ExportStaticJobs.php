@@ -39,6 +39,7 @@ class ExportStaticJobs extends Command
         $payload = [
             'generatedAt' => Carbon::now()->toIso8601String(),
             'stacks' => array_keys(config('job_sources.stacks', [])),
+            'sources' => config('job_sources.sources', []),
             'jobs' => $jobs,
         ];
 

@@ -12,6 +12,10 @@ use App\Services\JobSources\JobSource;
 use App\Services\JobSources\LeverSource;
 use App\Services\JobSources\RemoteOkSource;
 use App\Services\JobSources\RemotiveSource;
+use App\Services\JobSources\SmartRecruitersSource;
+use App\Services\JobSources\WeWorkRemotelySource;
+use App\Services\JobSources\WorkableSource;
+use App\Services\JobSources\WorkingNomadsSource;
 use Illuminate\Console\Attributes\Description;
 use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
@@ -28,9 +32,13 @@ class SyncJobs extends Command
         JobicySource::class,
         RemotiveSource::class,
         HimalayasSource::class,
+        WeWorkRemotelySource::class,
+        WorkingNomadsSource::class,
         GreenhouseSource::class,
         LeverSource::class,
         AshbySource::class,
+        SmartRecruitersSource::class,
+        WorkableSource::class,
     ];
 
     public function handle(): int

@@ -11,6 +11,8 @@
         form.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 14px; background: #f5f5f5; border-radius: 8px; margin-bottom: 20px; }
         form.filters label { font-size: 14px; display: flex; align-items: center; gap: 5px; cursor: pointer; }
         form.filters button { padding: 6px 14px; border: 0; background: #1a1a1a; color: #fff; border-radius: 6px; cursor: pointer; font-size: 14px; }
+        form.filters .sources { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; width: 100%; padding-top: 10px; border-top: 1px solid #e5e5e5; }
+        form.filters .sources-label { font-size: 13px; color: #666; }
         .job { padding: 14px 0; border-bottom: 1px solid #e5e5e5; }
         .job h2 { font-size: 16px; margin: 0 0 4px; }
         .job h2 a { color: #1a1a1a; text-decoration: none; }
@@ -38,6 +40,16 @@
             Remote only
         </label>
         <button type="submit">Filter</button>
+
+        <div class="sources">
+            <span class="sources-label">Sources:</span>
+            @foreach ($allSources as $key => $label)
+                <label>
+                    <input type="checkbox" name="sources[]" value="{{ $key }}" {{ in_array($key, $selectedSources) ? 'checked' : '' }}>
+                    {{ $label }}
+                </label>
+            @endforeach
+        </div>
     </form>
 
     @forelse ($postings as $posting)

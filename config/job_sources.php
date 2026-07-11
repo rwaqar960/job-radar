@@ -12,6 +12,23 @@ return [
         'java' => ['java', 'spring boot', 'spring framework'],
     ],
 
+    // Display labels for each JobSource::key(), used to render the "sources"
+    // checkboxes in both frontends. Keep in sync with SyncJobs::$sourceClasses.
+    'sources' => [
+        'remoteok' => 'RemoteOK',
+        'arbeitnow' => 'Arbeitnow',
+        'jobicy' => 'Jobicy',
+        'remotive' => 'Remotive',
+        'himalayas' => 'Himalayas',
+        'weworkremotely' => 'We Work Remotely',
+        'workingnomads' => 'Working Nomads',
+        'greenhouse' => 'Greenhouse (ATS)',
+        'lever' => 'Lever (ATS)',
+        'ashby' => 'Ashby (ATS)',
+        'smartrecruiters' => 'SmartRecruiters (ATS)',
+        'workable' => 'Workable (ATS)',
+    ],
+
     // Company slugs to poll directly via their ATS public job-board API.
     // Slug = the identifier used in the company's careers page URL
     // (e.g. jobs.ashbyhq.com/{slug}, jobs.lever.co/{slug}, boards.greenhouse.io/{slug}).
@@ -32,6 +49,12 @@ return [
             'ramp',
             'linear',
             'notion',
+        ],
+        'smartrecruiters' => [
+            'Visa',
+        ],
+        'workable' => [
+            'automattic',
         ],
     ],
 
