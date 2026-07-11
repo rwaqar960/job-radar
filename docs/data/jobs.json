@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-11T03:22:55+00:00",
+    "generatedAt": "2026-07-11T08:06:02+00:00",
     "stacks": [
         "flutter",
         "android",
@@ -8,6 +8,204 @@
         "java"
     ],
     "jobs": [
+        {
+            "id": 101,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in M\u00fchlacker, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "M\u00fchlacker",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-muhlacker-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-109243",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:31+00:00"
+        },
+        {
+            "id": 102,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Esselbach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Esselbach",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-esselbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-170631",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:31+00:00"
+        },
+        {
+            "id": 103,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Pellingen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Pellingen",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-pellingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-333517",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:30+00:00"
+        },
+        {
+            "id": 104,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Frammersbach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Frammersbach",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-frammersbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-69712",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:30+00:00"
+        },
+        {
+            "id": 105,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Eisleben, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Eisleben",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eisleben-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-106095",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:30+00:00"
+        },
+        {
+            "id": 106,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Leonberg, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Leonberg",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-leonberg-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-436255",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:30+00:00"
+        },
+        {
+            "id": 107,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Cleebronn, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Cleebronn",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-cleebronn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-209680",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:29+00:00"
+        },
+        {
+            "id": 108,
+            "source": "arbeitnow",
+            "title": "Steuerberater (m/w/d) in Guggenhausen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+            "company": "Taxtalente.de",
+            "location": "Guggenhausen",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-guggenhausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-475988",
+            "tags": [],
+            "posted_at": "2026-07-11T06:31:29+00:00"
+        },
+        {
+            "id": 193,
+            "source": "arbeitnow",
+            "title": "Marketing Assistant (m/w/d) zum Einstieg ins Marketing  30- 40 h",
+            "company": "H\u00f6rPartner GmbH",
+            "location": "Berlin",
+            "is_remote": false,
+            "url": "https://www.arbeitnow.com/jobs/companies/horpartner-gmbh/marketing-assistant-zum-einstieg-ins-marketing-30-40-h-berlin-218930",
+            "tags": [],
+            "posted_at": "2026-07-11T03:59:03+00:00"
+        },
+        {
+            "id": 201,
+            "source": "jobicy",
+            "title": "Administrative Officer / Legal Administrative Officer - Financial Services",
+            "company": "Axiom",
+            "location": "APAC,  Hong Kong",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149129-administrative-officer-legal-administrative-officer-financial-services-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:11+00:00"
+        },
+        {
+            "id": 202,
+            "source": "jobicy",
+            "title": "Benefits Operations Specialist - APAC",
+            "company": "Remote",
+            "location": "APAC",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149128-benefits-operations-specialist-apac-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:09+00:00"
+        },
+        {
+            "id": 203,
+            "source": "jobicy",
+            "title": "Legal Consultant - Financial Services",
+            "company": "Axiom",
+            "location": "APAC,  Hong Kong",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149126-legal-consultant-financial-services-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:06+00:00"
+        },
+        {
+            "id": 204,
+            "source": "jobicy",
+            "title": "Senior Legal Counsel",
+            "company": "Axiom",
+            "location": "APAC,  Australia",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149125-senior-legal-counsel-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:04+00:00"
+        },
+        {
+            "id": 205,
+            "source": "jobicy",
+            "title": "Senior Travel Consultant- Publicity Entertainment",
+            "company": "BCD Travel",
+            "location": "APAC,  Singapore",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149124-senior-travel-consultant-publicity-entertainment",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:03+00:00"
+        },
+        {
+            "id": 206,
+            "source": "jobicy",
+            "title": "Travel Consultant, Corporate",
+            "company": "BCD Travel",
+            "location": "APAC,  Australia",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149123-travel-consultant-corporate-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:01+00:00"
+        },
+        {
+            "id": 207,
+            "source": "jobicy",
+            "title": "Legal Consultant - GMSLA",
+            "company": "Axiom",
+            "location": "APAC,  Singapore",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149122-legal-consultant-gmsla",
+            "tags": [],
+            "posted_at": "2026-07-11T03:30:00+00:00"
+        },
+        {
+            "id": 208,
+            "source": "jobicy",
+            "title": "Legal Consultant - Global Investment Management Firm",
+            "company": "Axiom",
+            "location": "APAC,  Hong Kong",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149121-legal-consultant-global-investment-management-firm-2",
+            "tags": [],
+            "posted_at": "2026-07-11T03:29:58+00:00"
+        },
+        {
+            "id": 209,
+            "source": "jobicy",
+            "title": "Banking & Finance Derivatives Counsel",
+            "company": "Axiom",
+            "location": "APAC,  Australia",
+            "is_remote": true,
+            "url": "https://jobicy.com/jobs/149120-banking-finance-derivatives-counsel",
+            "tags": [],
+            "posted_at": "2026-07-11T03:29:56+00:00"
+        },
         {
             "id": 1949,
             "source": "ashby",
@@ -245,7 +443,7 @@
             "posted_at": "2026-07-11T00:11:07+00:00"
         },
         {
-            "id": 101,
+            "id": 109,
             "source": "arbeitnow",
             "title": "DevOps Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
             "company": "Auralis Group",
@@ -258,7 +456,7 @@
             "posted_at": "2026-07-10T23:00:23+00:00"
         },
         {
-            "id": 102,
+            "id": 110,
             "source": "arbeitnow",
             "title": "Platform Engineer (m/w/d) mit Karriereambitionen!",
             "company": "Auralis Group",
@@ -269,7 +467,7 @@
             "posted_at": "2026-07-10T23:00:23+00:00"
         },
         {
-            "id": 103,
+            "id": 111,
             "source": "arbeitnow",
             "title": "Mechatroniker f\u00fcr Robotik & Automatisierung",
             "company": "beRobox Europe GmbH",
@@ -280,7 +478,7 @@
             "posted_at": "2026-07-10T22:30:41+00:00"
         },
         {
-            "id": 104,
+            "id": 112,
             "source": "arbeitnow",
             "title": "People Operations Manager (m/w/d)",
             "company": "Alphapet Ventures GmbH",
@@ -291,7 +489,7 @@
             "posted_at": "2026-07-10T21:30:36+00:00"
         },
         {
-            "id": 105,
+            "id": 113,
             "source": "arbeitnow",
             "title": "Mechatronics Technician for Robotics & Automation",
             "company": "beRobox Europe GmbH",
@@ -302,7 +500,7 @@
             "posted_at": "2026-07-10T20:00:33+00:00"
         },
         {
-            "id": 201,
+            "id": 210,
             "source": "jobicy",
             "title": "Senior Software Engineer (Contract)",
             "company": "Mozilla",
@@ -313,7 +511,7 @@
             "posted_at": "2026-07-10T20:00:05+00:00"
         },
         {
-            "id": 202,
+            "id": 211,
             "source": "jobicy",
             "title": "Customer Experience Lab Technician (Netherlands)",
             "company": "Dandy",
@@ -324,7 +522,7 @@
             "posted_at": "2026-07-10T20:00:03+00:00"
         },
         {
-            "id": 203,
+            "id": 212,
             "source": "jobicy",
             "title": "Project Director, Qualitative Research",
             "company": "M3 USA",
@@ -359,7 +557,7 @@
             "posted_at": "2026-07-10T19:32:55+00:00"
         },
         {
-            "id": 106,
+            "id": 114,
             "source": "arbeitnow",
             "title": "IT Projektleiter:in f\u00fcr AI-Projekte (m/w/d)",
             "company": "WEBUILDAI GmbH",
@@ -370,7 +568,7 @@
             "posted_at": "2026-07-10T19:30:28+00:00"
         },
         {
-            "id": 184,
+            "id": 192,
             "source": "arbeitnow",
             "title": "Robot Perception/ML Engineer (w/m/d) Autonomous Mobile Robots",
             "company": "Magazino GmbH",
@@ -381,7 +579,7 @@
             "posted_at": "2026-07-10T19:29:03+00:00"
         },
         {
-            "id": 204,
+            "id": 213,
             "source": "jobicy",
             "title": "Content Marketing Manager, Organic Growth (SEO & AEO)",
             "company": "RevenueCat",
@@ -392,7 +590,7 @@
             "posted_at": "2026-07-10T19:25:02+00:00"
         },
         {
-            "id": 107,
+            "id": 115,
             "source": "arbeitnow",
             "title": "(Senior) SAP Entwickler (m/w/d)",
             "company": "SAPPLIER GmbH",
@@ -414,7 +612,7 @@
             "posted_at": "2026-07-10T17:48:31+00:00"
         },
         {
-            "id": 205,
+            "id": 214,
             "source": "jobicy",
             "title": "Global Client Account Executive, Data Centers - Remote (U.S.)",
             "company": "AECOM",
@@ -436,7 +634,7 @@
             "posted_at": "2026-07-10T17:14:04+00:00"
         },
         {
-            "id": 108,
+            "id": 116,
             "source": "arbeitnow",
             "title": "IT Projektmanager Softwareentwicklung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -447,7 +645,7 @@
             "posted_at": "2026-07-10T17:00:58+00:00"
         },
         {
-            "id": 109,
+            "id": 117,
             "source": "arbeitnow",
             "title": "SAP Inhouse Consultant Business Partner (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -458,7 +656,7 @@
             "posted_at": "2026-07-10T17:00:58+00:00"
         },
         {
-            "id": 110,
+            "id": 118,
             "source": "arbeitnow",
             "title": "Personalreferent Personalentwicklung & Ausbildung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -469,7 +667,7 @@
             "posted_at": "2026-07-10T17:00:57+00:00"
         },
         {
-            "id": 111,
+            "id": 119,
             "source": "arbeitnow",
             "title": "(Senior) Full Stack Java Entwickler (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -482,7 +680,7 @@
             "posted_at": "2026-07-10T17:00:57+00:00"
         },
         {
-            "id": 112,
+            "id": 120,
             "source": "arbeitnow",
             "title": "Softwareentwickler C++ / Qt",
             "company": "MY Humancapital GmbH",
@@ -493,7 +691,7 @@
             "posted_at": "2026-07-10T17:00:57+00:00"
         },
         {
-            "id": 113,
+            "id": 121,
             "source": "arbeitnow",
             "title": "System Engineer Requirements & Systemarchitektur (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -504,7 +702,7 @@
             "posted_at": "2026-07-10T17:00:57+00:00"
         },
         {
-            "id": 114,
+            "id": 122,
             "source": "arbeitnow",
             "title": "Financial Analyst Corporate Finance (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -515,7 +713,7 @@
             "posted_at": "2026-07-10T17:00:56+00:00"
         },
         {
-            "id": 115,
+            "id": 123,
             "source": "arbeitnow",
             "title": "Personalreferent HR Administration & Arbeitnehmer\u00fcberlassung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -526,7 +724,7 @@
             "posted_at": "2026-07-10T17:00:56+00:00"
         },
         {
-            "id": 116,
+            "id": 124,
             "source": "arbeitnow",
             "title": "Personalreferent (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -537,7 +735,7 @@
             "posted_at": "2026-07-10T17:00:56+00:00"
         },
         {
-            "id": 117,
+            "id": 125,
             "source": "arbeitnow",
             "title": "Kundenbetreuer Immobilienverwaltung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -548,7 +746,7 @@
             "posted_at": "2026-07-10T17:00:56+00:00"
         },
         {
-            "id": 118,
+            "id": 126,
             "source": "arbeitnow",
             "title": "Haustechniker Geb\u00e4udetechnik (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -559,7 +757,7 @@
             "posted_at": "2026-07-10T17:00:55+00:00"
         },
         {
-            "id": 119,
+            "id": 127,
             "source": "arbeitnow",
             "title": "Interim Recruiter Talent Acquisition (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -570,7 +768,7 @@
             "posted_at": "2026-07-10T17:00:55+00:00"
         },
         {
-            "id": 120,
+            "id": 128,
             "source": "arbeitnow",
             "title": "Testmanager Software und Systemtests (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -581,7 +779,7 @@
             "posted_at": "2026-07-10T17:00:54+00:00"
         },
         {
-            "id": 121,
+            "id": 129,
             "source": "arbeitnow",
             "title": "Projektmanager Prozessoptimierung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -592,7 +790,7 @@
             "posted_at": "2026-07-10T17:00:54+00:00"
         },
         {
-            "id": 122,
+            "id": 130,
             "source": "arbeitnow",
             "title": "Sachbearbeiter Controlling und Finanzen (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -603,7 +801,7 @@
             "posted_at": "2026-07-10T17:00:54+00:00"
         },
         {
-            "id": 123,
+            "id": 131,
             "source": "arbeitnow",
             "title": "Projektleiter Technisches Geb\u00e4udemanagement (m/w/d) Dresden",
             "company": "MY Humancapital GmbH",
@@ -614,7 +812,7 @@
             "posted_at": "2026-07-10T17:00:53+00:00"
         },
         {
-            "id": 124,
+            "id": 132,
             "source": "arbeitnow",
             "title": "Berechnungsingenieur Strukturanalyse (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -625,7 +823,7 @@
             "posted_at": "2026-07-10T17:00:53+00:00"
         },
         {
-            "id": 125,
+            "id": 133,
             "source": "arbeitnow",
             "title": "Sachbearbeiter Customer Service und Kundenbetreuung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -636,7 +834,7 @@
             "posted_at": "2026-07-10T17:00:53+00:00"
         },
         {
-            "id": 126,
+            "id": 134,
             "source": "arbeitnow",
             "title": "Kreditorenbuchhalter SAP (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -647,7 +845,7 @@
             "posted_at": "2026-07-10T17:00:53+00:00"
         },
         {
-            "id": 127,
+            "id": 135,
             "source": "arbeitnow",
             "title": "Projektassistenz (m/w/d) Heilbronn",
             "company": "MY Humancapital GmbH",
@@ -658,7 +856,7 @@
             "posted_at": "2026-07-10T17:00:52+00:00"
         },
         {
-            "id": 128,
+            "id": 136,
             "source": "arbeitnow",
             "title": "3D Artist Blender & Realtime-Anwendungen (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -669,7 +867,7 @@
             "posted_at": "2026-07-10T17:00:52+00:00"
         },
         {
-            "id": 129,
+            "id": 137,
             "source": "arbeitnow",
             "title": "Sachbearbeiter Logistik & Materialdisposition (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -680,7 +878,7 @@
             "posted_at": "2026-07-10T17:00:52+00:00"
         },
         {
-            "id": 130,
+            "id": 138,
             "source": "arbeitnow",
             "title": "Kreditsachbearbeiter (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -691,7 +889,7 @@
             "posted_at": "2026-07-10T17:00:52+00:00"
         },
         {
-            "id": 131,
+            "id": 139,
             "source": "arbeitnow",
             "title": "IT Business Analyst (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -702,7 +900,7 @@
             "posted_at": "2026-07-10T17:00:51+00:00"
         },
         {
-            "id": 132,
+            "id": 140,
             "source": "arbeitnow",
             "title": "Controller (m/w/d) im \u00f6ffentlichen Dienst",
             "company": "MY Humancapital GmbH",
@@ -713,7 +911,7 @@
             "posted_at": "2026-07-10T17:00:51+00:00"
         },
         {
-            "id": 133,
+            "id": 141,
             "source": "arbeitnow",
             "title": "IT Projektmanager Software Implementierung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -724,7 +922,7 @@
             "posted_at": "2026-07-10T17:00:51+00:00"
         },
         {
-            "id": 134,
+            "id": 142,
             "source": "arbeitnow",
             "title": "(Senior) AI Engineer / MLOps Engineer (w/m/d)",
             "company": "Right Search",
@@ -735,7 +933,7 @@
             "posted_at": "2026-07-10T17:00:51+00:00"
         },
         {
-            "id": 135,
+            "id": 143,
             "source": "arbeitnow",
             "title": "Projektleiter (m/w/d) Simulationssysteme",
             "company": "MY Humancapital GmbH",
@@ -746,7 +944,7 @@
             "posted_at": "2026-07-10T17:00:50+00:00"
         },
         {
-            "id": 136,
+            "id": 144,
             "source": "arbeitnow",
             "title": "Vergabemanager (m/w/d) \u00d6ffentliche Ausschreibung",
             "company": "MY Humancapital GmbH",
@@ -757,7 +955,7 @@
             "posted_at": "2026-07-10T17:00:50+00:00"
         },
         {
-            "id": 137,
+            "id": 145,
             "source": "arbeitnow",
             "title": "Senior SAP BTP Developer (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -770,7 +968,7 @@
             "posted_at": "2026-07-10T17:00:50+00:00"
         },
         {
-            "id": 138,
+            "id": 146,
             "source": "arbeitnow",
             "title": "Anlagenbuchhalter (m/w/d) Assetmanagement",
             "company": "MY Humancapital GmbH",
@@ -781,7 +979,7 @@
             "posted_at": "2026-07-10T17:00:49+00:00"
         },
         {
-            "id": 139,
+            "id": 147,
             "source": "arbeitnow",
             "title": "Bauingenieur (m/w/d) - Projektmanagement",
             "company": "MY Humancapital GmbH",
@@ -792,7 +990,7 @@
             "posted_at": "2026-07-10T17:00:48+00:00"
         },
         {
-            "id": 140,
+            "id": 148,
             "source": "arbeitnow",
             "title": "Projektmanager Vertragsmanagement (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -803,7 +1001,7 @@
             "posted_at": "2026-07-10T17:00:48+00:00"
         },
         {
-            "id": 141,
+            "id": 149,
             "source": "arbeitnow",
             "title": "Projektassistenz (m/w/d) - Projektkoordination",
             "company": "MY Humancapital GmbH",
@@ -814,7 +1012,7 @@
             "posted_at": "2026-07-10T17:00:48+00:00"
         },
         {
-            "id": 142,
+            "id": 150,
             "source": "arbeitnow",
             "title": "Technischer Objektverwalter (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -825,7 +1023,7 @@
             "posted_at": "2026-07-10T17:00:48+00:00"
         },
         {
-            "id": 143,
+            "id": 151,
             "source": "arbeitnow",
             "title": "Technischer Property Manager (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -836,7 +1034,7 @@
             "posted_at": "2026-07-10T17:00:47+00:00"
         },
         {
-            "id": 144,
+            "id": 152,
             "source": "arbeitnow",
             "title": "Objektverwalter Facility Management (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -847,7 +1045,7 @@
             "posted_at": "2026-07-10T17:00:47+00:00"
         },
         {
-            "id": 145,
+            "id": 153,
             "source": "arbeitnow",
             "title": "Projektcontroller (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -858,7 +1056,7 @@
             "posted_at": "2026-07-10T17:00:47+00:00"
         },
         {
-            "id": 146,
+            "id": 154,
             "source": "arbeitnow",
             "title": "Controller (m/w/d) - Riskmanagement im Bankenwesen",
             "company": "MY Humancapital GmbH",
@@ -869,7 +1067,7 @@
             "posted_at": "2026-07-10T17:00:47+00:00"
         },
         {
-            "id": 147,
+            "id": 155,
             "source": "arbeitnow",
             "title": "Fachkraft f\u00fcr Arbeitssicherheit / Sicherheitsingenieur (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -880,7 +1078,7 @@
             "posted_at": "2026-07-10T17:00:46+00:00"
         },
         {
-            "id": 148,
+            "id": 156,
             "source": "arbeitnow",
             "title": "Strategischer Projektentwickler (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -891,7 +1089,7 @@
             "posted_at": "2026-07-10T17:00:46+00:00"
         },
         {
-            "id": 149,
+            "id": 157,
             "source": "arbeitnow",
             "title": "Linux Systemadministrator (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -902,7 +1100,7 @@
             "posted_at": "2026-07-10T17:00:46+00:00"
         },
         {
-            "id": 150,
+            "id": 158,
             "source": "arbeitnow",
             "title": "Sachbearbeiter Finanzen / Verwaltungsfachkraft (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -913,7 +1111,7 @@
             "posted_at": "2026-07-10T17:00:45+00:00"
         },
         {
-            "id": 151,
+            "id": 159,
             "source": "arbeitnow",
             "title": "Konfigurationsmanager / Produktkoordinator (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -924,7 +1122,7 @@
             "posted_at": "2026-07-10T17:00:45+00:00"
         },
         {
-            "id": 152,
+            "id": 160,
             "source": "arbeitnow",
             "title": "Verwaltungsfachwirt / Sachbearbeiter Finanzwesen (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -970,7 +1168,7 @@
             "posted_at": "2026-07-10T16:37:37+00:00"
         },
         {
-            "id": 153,
+            "id": 161,
             "source": "arbeitnow",
             "title": "Systemadministrator (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -981,7 +1179,7 @@
             "posted_at": "2026-07-10T16:30:34+00:00"
         },
         {
-            "id": 154,
+            "id": 162,
             "source": "arbeitnow",
             "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -992,7 +1190,7 @@
             "posted_at": "2026-07-10T16:30:34+00:00"
         },
         {
-            "id": 155,
+            "id": 163,
             "source": "arbeitnow",
             "title": "Vertriebscontroller im Bankenumfeld (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -1003,7 +1201,7 @@
             "posted_at": "2026-07-10T16:30:34+00:00"
         },
         {
-            "id": 156,
+            "id": 164,
             "source": "arbeitnow",
             "title": "Kundenberater Private Banking (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -1014,7 +1212,7 @@
             "posted_at": "2026-07-10T16:30:33+00:00"
         },
         {
-            "id": 157,
+            "id": 165,
             "source": "arbeitnow",
             "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
             "company": "Lionflence",
@@ -1025,7 +1223,7 @@
             "posted_at": "2026-07-10T16:30:33+00:00"
         },
         {
-            "id": 158,
+            "id": 166,
             "source": "arbeitnow",
             "title": "Artist Manager / Influencer Manager (m/w/d)",
             "company": "Lionflence",
@@ -1036,7 +1234,7 @@
             "posted_at": "2026-07-10T16:30:33+00:00"
         },
         {
-            "id": 159,
+            "id": 167,
             "source": "arbeitnow",
             "title": "Artist Manager / Influencer Manager (m/w/d) BERLIN",
             "company": "Lionflence",
@@ -1047,7 +1245,7 @@
             "posted_at": "2026-07-10T16:30:33+00:00"
         },
         {
-            "id": 160,
+            "id": 168,
             "source": "arbeitnow",
             "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
             "company": "Lionflence",
@@ -1058,7 +1256,7 @@
             "posted_at": "2026-07-10T16:30:32+00:00"
         },
         {
-            "id": 161,
+            "id": 169,
             "source": "arbeitnow",
             "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
             "company": "Lionflence",
@@ -1069,7 +1267,7 @@
             "posted_at": "2026-07-10T16:30:31+00:00"
         },
         {
-            "id": 162,
+            "id": 170,
             "source": "arbeitnow",
             "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
             "company": "Lionflence",
@@ -1080,7 +1278,7 @@
             "posted_at": "2026-07-10T16:30:29+00:00"
         },
         {
-            "id": 163,
+            "id": 171,
             "source": "arbeitnow",
             "title": "Implementation Lead (m/w/d)",
             "company": "Orbit",
@@ -1091,7 +1289,7 @@
             "posted_at": "2026-07-10T16:00:34+00:00"
         },
         {
-            "id": 164,
+            "id": 172,
             "source": "arbeitnow",
             "title": "Product Engineer (w/m/d)",
             "company": "Skalar",
@@ -1113,7 +1311,7 @@
             "posted_at": "2026-07-10T15:51:32+00:00"
         },
         {
-            "id": 165,
+            "id": 173,
             "source": "arbeitnow",
             "title": "Founding Engineer (w/m/d)",
             "company": "Skalar",
@@ -1124,7 +1322,7 @@
             "posted_at": "2026-07-10T15:30:34+00:00"
         },
         {
-            "id": 166,
+            "id": 174,
             "source": "arbeitnow",
             "title": "Anleger / Trader mit Full-Stack-Erfahrung (m/w/d)",
             "company": "FinMent GmbH",
@@ -1137,7 +1335,7 @@
             "posted_at": "2026-07-10T15:30:34+00:00"
         },
         {
-            "id": 167,
+            "id": 175,
             "source": "arbeitnow",
             "title": "Communications Officer (m/w/d) in Teilzeit",
             "company": "OlamAid",
@@ -1159,7 +1357,7 @@
             "posted_at": "2026-07-10T15:30:33+00:00"
         },
         {
-            "id": 168,
+            "id": 176,
             "source": "arbeitnow",
             "title": "Werkstudent/-in (m/w/d) in der telefonischen Immobilienberatung (20 Stunden / Woche)",
             "company": "Immo-Marketer",
@@ -1170,7 +1368,7 @@
             "posted_at": "2026-07-10T15:20:13+00:00"
         },
         {
-            "id": 169,
+            "id": 177,
             "source": "arbeitnow",
             "title": "Werkstudent/-in (m/w/d) Finanzbuchhaltung (Schwerpunkt Forderungsmanagement)",
             "company": "Immo-Marketer",
@@ -1181,7 +1379,7 @@
             "posted_at": "2026-07-10T15:20:13+00:00"
         },
         {
-            "id": 170,
+            "id": 178,
             "source": "arbeitnow",
             "title": "Praxissemester BWL Controlling und Buchhaltung",
             "company": "R\u00f6dl & Herdegen",
@@ -1192,7 +1390,7 @@
             "posted_at": "2026-07-10T15:00:34+00:00"
         },
         {
-            "id": 171,
+            "id": 179,
             "source": "arbeitnow",
             "title": "Investment Analyst mit Marketingerfahrung (m/w/d)",
             "company": "FinMent GmbH",
@@ -1203,7 +1401,7 @@
             "posted_at": "2026-07-10T15:00:32+00:00"
         },
         {
-            "id": 172,
+            "id": 180,
             "source": "arbeitnow",
             "title": "Campaign Manager (f/m/x) - French Market",
             "company": "Bonial International GmbH",
@@ -1214,7 +1412,7 @@
             "posted_at": "2026-07-10T15:00:32+00:00"
         },
         {
-            "id": 173,
+            "id": 181,
             "source": "arbeitnow",
             "title": "Bilanzbuchhalter (m/w/d)",
             "company": "Jobbusters\u00ae GmbH",
@@ -1225,7 +1423,7 @@
             "posted_at": "2026-07-10T14:30:39+00:00"
         },
         {
-            "id": 174,
+            "id": 182,
             "source": "arbeitnow",
             "title": "Bilanzbuchhalter (m/w/d)",
             "company": "Jobbusters\u00ae GmbH",
@@ -1236,7 +1434,7 @@
             "posted_at": "2026-07-10T14:30:38+00:00"
         },
         {
-            "id": 175,
+            "id": 183,
             "source": "arbeitnow",
             "title": "Bilanzbuchhalter / Senior Accountant (m/w/d)",
             "company": "Jobbusters\u00ae GmbH",
@@ -1247,7 +1445,7 @@
             "posted_at": "2026-07-10T14:30:38+00:00"
         },
         {
-            "id": 176,
+            "id": 184,
             "source": "arbeitnow",
             "title": "Bilanzbuchhalter (m/w/d)",
             "company": "PRIME HR Agentur\u00ae",
@@ -1258,7 +1456,7 @@
             "posted_at": "2026-07-10T14:30:38+00:00"
         },
         {
-            "id": 177,
+            "id": 185,
             "source": "arbeitnow",
             "title": "Junior Content Marketing (m/w/d)",
             "company": "FinMent GmbH",
@@ -1269,7 +1467,7 @@
             "posted_at": "2026-07-10T14:30:37+00:00"
         },
         {
-            "id": 178,
+            "id": 186,
             "source": "arbeitnow",
             "title": "Duales Studium - Web Developer (m/w/d)",
             "company": "FinMent GmbH",
@@ -1280,7 +1478,7 @@
             "posted_at": "2026-07-10T14:30:37+00:00"
         },
         {
-            "id": 179,
+            "id": 187,
             "source": "arbeitnow",
             "title": "Mitarbeiter (m/w/d) f\u00fcr Kundenbetreuung und Organisation",
             "company": "Seide Versicherungen GbmH",
@@ -1291,7 +1489,7 @@
             "posted_at": "2026-07-10T14:30:37+00:00"
         },
         {
-            "id": 180,
+            "id": 188,
             "source": "arbeitnow",
             "title": "Full Stack Devloper (m/w/d) - Node.js / React",
             "company": "FinMent GmbH",
@@ -1304,7 +1502,7 @@
             "posted_at": "2026-07-10T14:30:37+00:00"
         },
         {
-            "id": 181,
+            "id": 189,
             "source": "arbeitnow",
             "title": "Praktikant (m/w/d) Human Resources am Standort Frankfurt am Main",
             "company": "allaboutHRLaw GmbH",
@@ -1315,7 +1513,7 @@
             "posted_at": "2026-07-10T14:30:37+00:00"
         },
         {
-            "id": 182,
+            "id": 190,
             "source": "arbeitnow",
             "title": "Junior Web Developer (m/w/d) -  Node.js / React",
             "company": "FinMent GmbH",
@@ -1328,7 +1526,7 @@
             "posted_at": "2026-07-10T14:30:36+00:00"
         },
         {
-            "id": 183,
+            "id": 191,
             "source": "arbeitnow",
             "title": "Robot Perception/ML Engineer (f/m/d) Autonomous Mobile Robots",
             "company": "Magazino GmbH",
@@ -1339,18 +1537,7 @@
             "posted_at": "2026-07-10T14:30:36+00:00"
         },
         {
-            "id": 185,
-            "source": "arbeitnow",
-            "title": "Marketing Assistant (m/w/d) zum Einstieg ins Marketing  30- 40 h",
-            "company": "H\u00f6rPartner GmbH",
-            "location": "Berlin",
-            "is_remote": false,
-            "url": "https://www.arbeitnow.com/jobs/companies/horpartner-gmbh/marketing-assistant-zum-einstieg-ins-marketing-30-40-h-berlin-218930",
-            "tags": [],
-            "posted_at": "2026-07-10T14:30:35+00:00"
-        },
-        {
-            "id": 186,
+            "id": 194,
             "source": "arbeitnow",
             "title": "Organic Content Marketing Manager (Beauty D2C)",
             "company": "VYBE",
@@ -1361,7 +1548,7 @@
             "posted_at": "2026-07-10T14:30:35+00:00"
         },
         {
-            "id": 187,
+            "id": 195,
             "source": "arbeitnow",
             "title": "IT Projektmanager Softwareentwicklung (m/w/d)",
             "company": "MY Humancapital GmbH",
@@ -1372,7 +1559,7 @@
             "posted_at": "2026-07-10T14:30:34+00:00"
         },
         {
-            "id": 188,
+            "id": 196,
             "source": "arbeitnow",
             "title": "Trainee Online-Marketing (m/w/d) in Berlin",
             "company": "SUCHMEISTEREI GmbH",
@@ -1383,7 +1570,7 @@
             "posted_at": "2026-07-10T14:30:34+00:00"
         },
         {
-            "id": 189,
+            "id": 197,
             "source": "arbeitnow",
             "title": "Copywriter*In (M/W/D) - Vollzeit/ Remote",
             "company": "Erschaffe dich neu",
@@ -1394,7 +1581,7 @@
             "posted_at": "2026-07-10T14:30:33+00:00"
         },
         {
-            "id": 206,
+            "id": 215,
             "source": "jobicy",
             "title": "Media Buyer, Emerging Channels - Growth Marketing",
             "company": "AppLovin",
@@ -1405,7 +1592,7 @@
             "posted_at": "2026-07-10T14:23:26+00:00"
         },
         {
-            "id": 207,
+            "id": 216,
             "source": "jobicy",
             "title": "Director of Engineering, Cloud & Reliability",
             "company": "Boulevard",
@@ -1416,7 +1603,7 @@
             "posted_at": "2026-07-10T14:23:24+00:00"
         },
         {
-            "id": 208,
+            "id": 217,
             "source": "jobicy",
             "title": "Staff Product Designer",
             "company": "Fieldguide",
@@ -1427,7 +1614,7 @@
             "posted_at": "2026-07-10T14:23:23+00:00"
         },
         {
-            "id": 209,
+            "id": 218,
             "source": "jobicy",
             "title": "Software Engineer, Unsecured Installments",
             "company": "Upstart",
@@ -1441,7 +1628,7 @@
             "posted_at": "2026-07-10T14:23:21+00:00"
         },
         {
-            "id": 210,
+            "id": 219,
             "source": "jobicy",
             "title": "Senior Software Engineer, Unsecured Installments",
             "company": "Upstart",
@@ -1455,7 +1642,7 @@
             "posted_at": "2026-07-10T14:23:20+00:00"
         },
         {
-            "id": 211,
+            "id": 220,
             "source": "jobicy",
             "title": "Compliance Risk & Controls Manager, Unsecured Line",
             "company": "Upstart",
@@ -1466,7 +1653,7 @@
             "posted_at": "2026-07-10T14:23:18+00:00"
         },
         {
-            "id": 212,
+            "id": 221,
             "source": "jobicy",
             "title": "Business Recruiter",
             "company": "Apollo.io",
@@ -1477,7 +1664,7 @@
             "posted_at": "2026-07-10T14:23:16+00:00"
         },
         {
-            "id": 213,
+            "id": 222,
             "source": "jobicy",
             "title": "Lead, Global Revenue Onboarding",
             "company": "StackAdapt",
@@ -1488,7 +1675,7 @@
             "posted_at": "2026-07-10T14:23:15+00:00"
         },
         {
-            "id": 214,
+            "id": 223,
             "source": "jobicy",
             "title": "Manager, Ad Operations",
             "company": "StackAdapt",
@@ -1499,7 +1686,7 @@
             "posted_at": "2026-07-10T14:23:13+00:00"
         },
         {
-            "id": 215,
+            "id": 224,
             "source": "jobicy",
             "title": "Technical Problem Solver Expert - Red X",
             "company": "TE Connectivity",
@@ -1510,7 +1697,7 @@
             "posted_at": "2026-07-10T14:23:12+00:00"
         },
         {
-            "id": 216,
+            "id": 225,
             "source": "jobicy",
             "title": "Principal Project Manager Engineer - remote must be in the US",
             "company": "TE Connectivity",
@@ -1521,7 +1708,7 @@
             "posted_at": "2026-07-10T14:23:10+00:00"
         },
         {
-            "id": 217,
+            "id": 226,
             "source": "jobicy",
             "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
             "company": "Cresta",
@@ -1532,7 +1719,7 @@
             "posted_at": "2026-07-10T14:23:09+00:00"
         },
         {
-            "id": 218,
+            "id": 227,
             "source": "jobicy",
             "title": "Sales Development Representative, San Francisco",
             "company": "Cresta",
@@ -1543,7 +1730,7 @@
             "posted_at": "2026-07-10T14:23:07+00:00"
         },
         {
-            "id": 219,
+            "id": 228,
             "source": "jobicy",
             "title": "Compliance Analyst",
             "company": "Cresta",
@@ -1554,7 +1741,7 @@
             "posted_at": "2026-07-10T14:23:05+00:00"
         },
         {
-            "id": 220,
+            "id": 229,
             "source": "jobicy",
             "title": "Application Support Engineer",
             "company": "Cresta",
@@ -1565,7 +1752,7 @@
             "posted_at": "2026-07-10T14:23:04+00:00"
         },
         {
-            "id": 221,
+            "id": 230,
             "source": "jobicy",
             "title": "Application Engineer - Digital Solutions",
             "company": "Grundfos",
@@ -1576,7 +1763,7 @@
             "posted_at": "2026-07-10T14:23:02+00:00"
         },
         {
-            "id": 222,
+            "id": 231,
             "source": "jobicy",
             "title": "Customer Development Manager -Hill's Pet Nutrition",
             "company": "Colgate-Palmolive",
@@ -1587,7 +1774,7 @@
             "posted_at": "2026-07-10T14:20:03+00:00"
         },
         {
-            "id": 223,
+            "id": 232,
             "source": "jobicy",
             "title": "PDF Forms Operations Specialist",
             "company": "Ruby Labs",
@@ -1598,7 +1785,7 @@
             "posted_at": "2026-07-10T14:17:24+00:00"
         },
         {
-            "id": 224,
+            "id": 233,
             "source": "jobicy",
             "title": "Senior Character & Motion Animator",
             "company": "Ruby Labs",
@@ -1609,7 +1796,7 @@
             "posted_at": "2026-07-10T14:17:23+00:00"
         },
         {
-            "id": 225,
+            "id": 234,
             "source": "jobicy",
             "title": "Cloud Security Analyst",
             "company": "Cloudbeds",
@@ -1620,7 +1807,7 @@
             "posted_at": "2026-07-10T14:17:21+00:00"
         },
         {
-            "id": 226,
+            "id": 235,
             "source": "jobicy",
             "title": "Working Student, Global Client Team / Werkstudent",
             "company": "BCD Travel",
@@ -1631,7 +1818,7 @@
             "posted_at": "2026-07-10T14:17:20+00:00"
         },
         {
-            "id": 227,
+            "id": 236,
             "source": "jobicy",
             "title": "Manager Operations",
             "company": "BCD Travel",
@@ -1642,7 +1829,7 @@
             "posted_at": "2026-07-10T14:17:18+00:00"
         },
         {
-            "id": 228,
+            "id": 237,
             "source": "jobicy",
             "title": "EDD Analyst",
             "company": "Remote",
@@ -1653,7 +1840,7 @@
             "posted_at": "2026-07-10T14:17:17+00:00"
         },
         {
-            "id": 229,
+            "id": 238,
             "source": "jobicy",
             "title": "GTM Product Manager",
             "company": "Remote",
@@ -1664,7 +1851,7 @@
             "posted_at": "2026-07-10T14:17:15+00:00"
         },
         {
-            "id": 230,
+            "id": 239,
             "source": "jobicy",
             "title": "VP, Multinational/Traditional Corp Sales",
             "company": "BCD Travel",
@@ -1675,7 +1862,7 @@
             "posted_at": "2026-07-10T14:17:13+00:00"
         },
         {
-            "id": 190,
+            "id": 198,
             "source": "arbeitnow",
             "title": "Senior Microsoft Cloud Transformation Architect (m/w/d)",
             "company": "think about IT GmbH",
@@ -1686,7 +1873,7 @@
             "posted_at": "2026-07-10T14:00:34+00:00"
         },
         {
-            "id": 191,
+            "id": 199,
             "source": "arbeitnow",
             "title": "SAP SuccessFactors Berater:in",
             "company": "Pertemps ERP",
@@ -1697,7 +1884,7 @@
             "posted_at": "2026-07-10T14:00:34+00:00"
         },
         {
-            "id": 192,
+            "id": 200,
             "source": "arbeitnow",
             "title": "SAP HCM Berater:in",
             "company": "Pertemps ERP",
@@ -1708,95 +1895,7 @@
             "posted_at": "2026-07-10T14:00:34+00:00"
         },
         {
-            "id": 193,
-            "source": "arbeitnow",
-            "title": "SAP Senior CO Berater:in",
-            "company": "Pertemps ERP",
-            "location": "Frankfurt am Main",
-            "is_remote": true,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-senior-co-beraterin-frankfurt-am-main-472489",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:34+00:00"
-        },
-        {
-            "id": 194,
-            "source": "arbeitnow",
-            "title": "SAP IBP Consultant",
-            "company": "Pertemps ERP",
-            "location": "Munich",
-            "is_remote": false,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ibp-consultant-munich-382475",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:33+00:00"
-        },
-        {
-            "id": 195,
-            "source": "arbeitnow",
-            "title": "SAP EWM Consultant",
-            "company": "Pertemps ERP",
-            "location": "Frankfurt am Main",
-            "is_remote": true,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ewm-consultant-frankfurt-am-main-155908",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:33+00:00"
-        },
-        {
-            "id": 196,
-            "source": "arbeitnow",
-            "title": "SAP Data & Analytics Consultant (m/w/d)",
-            "company": "Pertemps ERP",
-            "location": "Frankfurt am Main",
-            "is_remote": true,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-data-analytics-consultant-frankfurt-am-main-345581",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:33+00:00"
-        },
-        {
-            "id": 197,
-            "source": "arbeitnow",
-            "title": "Senior Azure Cloud Platform Architect (m/w/d)",
-            "company": "think about IT GmbH",
-            "location": "Nuremberg",
-            "is_remote": false,
-            "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-azure-cloud-platform-architect-nuremberg-103189",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:33+00:00"
-        },
-        {
-            "id": 198,
-            "source": "arbeitnow",
-            "title": "SAP EWM Berater",
-            "company": "Pertemps ERP",
-            "location": "Bielefeld",
-            "is_remote": false,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ewm-berater-bielefeld-258750",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:33+00:00"
-        },
-        {
-            "id": 199,
-            "source": "arbeitnow",
-            "title": "SAP EWM Consultant (m/f/d)",
-            "company": "Pertemps ERP",
-            "location": "Frankfurt am Main",
-            "is_remote": true,
-            "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ewm-consultant-frankfurt-am-main-1033",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:32+00:00"
-        },
-        {
-            "id": 200,
-            "source": "arbeitnow",
-            "title": "Account Manager E-Commerce (m/w/d)",
-            "company": "R\u00fcgamer & Steiner Consulting GmbH",
-            "location": "D\u00fcsseldorf",
-            "is_remote": false,
-            "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/account-manager-e-commerce-dusseldorf-304875",
-            "tags": [],
-            "posted_at": "2026-07-10T14:00:32+00:00"
-        },
-        {
-            "id": 231,
+            "id": 240,
             "source": "jobicy",
             "title": "Key Account Manager - Rapid Diagnostics UK",
             "company": "Abbott",
@@ -1818,7 +1917,7 @@
             "posted_at": "2026-07-10T13:47:15+00:00"
         },
         {
-            "id": 232,
+            "id": 241,
             "source": "jobicy",
             "title": "Data Analytics Senior Consultant I",
             "company": "Allstate",
@@ -1829,7 +1928,7 @@
             "posted_at": "2026-07-10T13:40:02+00:00"
         },
         {
-            "id": 233,
+            "id": 242,
             "source": "jobicy",
             "title": "Technical Support Specialist II - Core Apps (Costa Rica)",
             "company": "Smartsheet",
@@ -1895,7 +1994,7 @@
             "posted_at": "2026-07-10T11:30:32+00:00"
         },
         {
-            "id": 234,
+            "id": 243,
             "source": "jobicy",
             "title": "AutoCad Drafter",
             "company": "ManTech",
@@ -1941,6 +2040,138 @@
             "posted_at": "2026-07-10T08:19:24+00:00"
         },
         {
+            "id": 1,
+            "source": "remoteok",
+            "title": "Administrative Customer Support",
+            "company": "Recruitlytixs Hirings",
+            "location": "Alberta, Alberta, Canada",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-administrative-customer-support-recruitlytixs-hirings-1134668",
+            "tags": [],
+            "posted_at": "2026-07-10T06:27:54+00:00"
+        },
+        {
+            "id": 2,
+            "source": "remoteok",
+            "title": "Virtual Executive Assistant",
+            "company": "Recruitlytixs Hirings",
+            "location": "Alberta, Alberta, Canada",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytixs-hirings-1134664",
+            "tags": [],
+            "posted_at": "2026-07-10T06:27:30+00:00"
+        },
+        {
+            "id": 3,
+            "source": "remoteok",
+            "title": "Administrative Data Entry File Clerk",
+            "company": "Recruitlytixs Hirings",
+            "location": "Alberta, Alberta, Canada",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytixs-hirings-1134665",
+            "tags": [],
+            "posted_at": "2026-07-10T06:27:19+00:00"
+        },
+        {
+            "id": 4,
+            "source": "remoteok",
+            "title": "Computer User Support",
+            "company": "Recruitlytixs Hirings",
+            "location": "Alberta, Alberta, Canada",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-computer-user-support-recruitlytixs-hirings-1134667",
+            "tags": [],
+            "posted_at": "2026-07-10T06:27:08+00:00"
+        },
+        {
+            "id": 5,
+            "source": "remoteok",
+            "title": "Entry Level Administrative Assistant",
+            "company": "Recruitlytixs Hirings",
+            "location": "Alberta, Alberta, Canada",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hirings-1134663",
+            "tags": [],
+            "posted_at": "2026-07-10T06:26:57+00:00"
+        },
+        {
+            "id": 6,
+            "source": "remoteok",
+            "title": "Data Entry Specialist Assistant Administrator",
+            "company": "Recruitlytixs Hirings",
+            "location": "Hong Kong, Hong Kong, Hong Kong SAR",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytixs-hirings-1134677",
+            "tags": [],
+            "posted_at": "2026-07-10T06:25:25+00:00"
+        },
+        {
+            "id": 7,
+            "source": "remoteok",
+            "title": "Data Entry Specialist Assistant Admin",
+            "company": "Recruitlytixs Hirings",
+            "location": "\u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a, \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a7\u00d9\u0084\u00d8\u00a5\u00d9\u0085\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7\u00d8\u00aa \u00d8\u00a7\u00d9\u0084\u00d8\u00b9\u00d8\u00b1\u00d8\u00a8\u00d9\u008a\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00aa\u00d8\u00ad\u00d8\u00af\u00d8\u00a9",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-admin-recruitlytixs-hirings-1134681",
+            "tags": [],
+            "posted_at": "2026-07-10T06:12:45+00:00"
+        },
+        {
+            "id": 8,
+            "source": "remoteok",
+            "title": "Human Resources Assistant",
+            "company": "Recruitlytixs Hirings",
+            "location": "\u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a, \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a7\u00d9\u0084\u00d8\u00a5\u00d9\u0085\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7\u00d8\u00aa \u00d8\u00a7\u00d9\u0084\u00d8\u00b9\u00d8\u00b1\u00d8\u00a8\u00d9\u008a\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00aa\u00d8\u00ad\u00d8\u00af\u00d8\u00a9",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruitlytixs-hirings-1134680",
+            "tags": [],
+            "posted_at": "2026-07-10T06:10:23+00:00"
+        },
+        {
+            "id": 9,
+            "source": "remoteok",
+            "title": "File Clerk",
+            "company": "Recruitlytixs Hirings",
+            "location": "\u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a, \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a3\u00d8\u00a8\u00d9\u0088 \u00d8\u00b8\u00d8\u00a8\u00d9\u008a \u00d8\u00a7\u00d9\u0084\u00d8\u00a5\u00d9\u0085\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7\u00d8\u00aa \u00d8\u00a7\u00d9\u0084\u00d8\u00b9\u00d8\u00b1\u00d8\u00a8\u00d9\u008a\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00aa\u00d8\u00ad\u00d8\u00af\u00d8\u00a9",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytixs-hirings-1134675",
+            "tags": [],
+            "posted_at": "2026-07-10T06:10:13+00:00"
+        },
+        {
+            "id": 10,
+            "source": "remoteok",
+            "title": "Administrative Assistant Entry Level",
+            "company": "Recruitlytixs Hirings",
+            "location": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9, \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d8\u00b3\u00d8\u00b9\u00d9\u0088\u00d8\u00af\u00d9\u008a\u00d8\u00a9",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruitlytixs-hirings-1134679",
+            "tags": [],
+            "posted_at": "2026-07-10T06:08:49+00:00"
+        },
+        {
+            "id": 11,
+            "source": "remoteok",
+            "title": "Customer Support",
+            "company": "Recruitlytixs Hirings",
+            "location": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9, \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00af\u00d9\u008a\u00d9\u0086\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d8\u00b3\u00d8\u00b9\u00d9\u0088\u00d8\u00af\u00d9\u008a\u00d8\u00a9",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytixs-hirings-1134678",
+            "tags": [],
+            "posted_at": "2026-07-10T06:08:14+00:00"
+        },
+        {
+            "id": 12,
+            "source": "remoteok",
+            "title": "We\u00e2\u0080\u0099re not hiring right now \u00e2\u0080\u0094 but we\u00e2\u0080\u0099re growing fast",
+            "company": "VENDED",
+            "location": "West Midlands, ",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-were-not-hiring-right-now-but-were-growing-fast-vended-1134690",
+            "tags": [],
+            "posted_at": "2026-07-10T06:01:39+00:00"
+        },
+        {
             "id": 1328,
             "source": "greenhouse",
             "title": "Senior Business Solutions Engineer, BizTech(LegalTech)",
@@ -1952,7 +2183,7 @@
             "posted_at": "2026-07-10T05:03:39+00:00"
         },
         {
-            "id": 1,
+            "id": 13,
             "source": "remoteok",
             "title": "Australian English Voice Actor Adelaide",
             "company": "OpsArmy Careers",
@@ -1976,7 +2207,7 @@
             "posted_at": "2026-07-10T01:33:52+00:00"
         },
         {
-            "id": 2,
+            "id": 14,
             "source": "remoteok",
             "title": "Support Technician Level 1 2",
             "company": "Magic Memories",
@@ -1998,7 +2229,7 @@
             "posted_at": "2026-07-09T23:06:46+00:00"
         },
         {
-            "id": 3,
+            "id": 15,
             "source": "remoteok",
             "title": "Customer Success Manager",
             "company": "INNERGY",
@@ -2009,7 +2240,7 @@
             "posted_at": "2026-07-09T22:30:53+00:00"
         },
         {
-            "id": 4,
+            "id": 16,
             "source": "remoteok",
             "title": "Warehouse Inventory Clerk",
             "company": "Caribbean Bottling Company (Bahamas) Ltd.",
@@ -2020,7 +2251,7 @@
             "posted_at": "2026-07-09T21:58:53+00:00"
         },
         {
-            "id": 5,
+            "id": 17,
             "source": "remoteok",
             "title": "Diver",
             "company": "Amentum",
@@ -2042,7 +2273,7 @@
             "posted_at": "2026-07-09T20:08:09+00:00"
         },
         {
-            "id": 6,
+            "id": 18,
             "source": "remoteok",
             "title": "Nanny",
             "company": "Jovie",
@@ -2053,7 +2284,7 @@
             "posted_at": "2026-07-09T19:42:11+00:00"
         },
         {
-            "id": 7,
+            "id": 19,
             "source": "remoteok",
             "title": "Health Navigator I",
             "company": "Moda Health",
@@ -2119,6 +2350,17 @@
             "posted_at": "2026-07-09T15:31:12+00:00"
         },
         {
+            "id": 20,
+            "source": "remoteok",
+            "title": "Senior Creative Designer Design Strategist",
+            "company": "Digital",
+            "location": "London, London, England, United Kingdom",
+            "is_remote": true,
+            "url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
+            "tags": [],
+            "posted_at": "2026-07-09T15:13:13+00:00"
+        },
+        {
             "id": 931,
             "source": "greenhouse",
             "title": "Staff Software Engineer, Customer Administration",
@@ -2130,7 +2372,7 @@
             "posted_at": "2026-07-09T15:05:42+00:00"
         },
         {
-            "id": 8,
+            "id": 21,
             "source": "remoteok",
             "title": "Caretaker City Buildings",
             "company": "City of Kalgoorlie-Boulder",
@@ -2141,7 +2383,7 @@
             "posted_at": "2026-07-09T15:04:15+00:00"
         },
         {
-            "id": 9,
+            "id": 22,
             "source": "remoteok",
             "title": "Mason",
             "company": "United Infrastructure Ltd",
@@ -2207,7 +2449,7 @@
             "posted_at": "2026-07-09T13:20:32+00:00"
         },
         {
-            "id": 10,
+            "id": 23,
             "source": "remoteok",
             "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Remoto Sueldo Fijo",
             "company": "Partner Service",
@@ -2218,7 +2460,7 @@
             "posted_at": "2026-07-09T13:04:36+00:00"
         },
         {
-            "id": 235,
+            "id": 244,
             "source": "jobicy",
             "title": "Customer Pricing Director",
             "company": "Cloudera",
@@ -2229,7 +2471,7 @@
             "posted_at": "2026-07-09T12:54:31+00:00"
         },
         {
-            "id": 236,
+            "id": 245,
             "source": "jobicy",
             "title": "Customer service manager (PP)",
             "company": "ParcelHero",
@@ -2240,7 +2482,7 @@
             "posted_at": "2026-07-09T12:54:29+00:00"
         },
         {
-            "id": 237,
+            "id": 246,
             "source": "jobicy",
             "title": "Customer service manager (UK)",
             "company": "ParcelHero",
@@ -2251,7 +2493,7 @@
             "posted_at": "2026-07-09T12:54:28+00:00"
         },
         {
-            "id": 238,
+            "id": 247,
             "source": "jobicy",
             "title": "Customer service manager (PT)",
             "company": "ParcelHero",
@@ -2262,7 +2504,7 @@
             "posted_at": "2026-07-09T12:54:26+00:00"
         },
         {
-            "id": 239,
+            "id": 248,
             "source": "jobicy",
             "title": "Customer service manager (GR)",
             "company": "ParcelHero",
@@ -2273,7 +2515,7 @@
             "posted_at": "2026-07-09T12:54:24+00:00"
         },
         {
-            "id": 240,
+            "id": 249,
             "source": "jobicy",
             "title": "Customer service manager (CY)",
             "company": "ParcelHero",
@@ -2284,7 +2526,7 @@
             "posted_at": "2026-07-09T12:54:23+00:00"
         },
         {
-            "id": 241,
+            "id": 250,
             "source": "jobicy",
             "title": "Customer service manager (PL)",
             "company": "ParcelHero",
@@ -2293,61 +2535,6 @@
             "url": "https://jobicy.com/jobs/149071-customer-service-manager-pl",
             "tags": [],
             "posted_at": "2026-07-09T12:54:21+00:00"
-        },
-        {
-            "id": 242,
-            "source": "jobicy",
-            "title": "Customer service manager (CZ)",
-            "company": "ParcelHero",
-            "location": "Czechia",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149070-customer-service-manager-cz",
-            "tags": [],
-            "posted_at": "2026-07-09T12:54:20+00:00"
-        },
-        {
-            "id": 243,
-            "source": "jobicy",
-            "title": "Customer Experience Associate (Temporary)",
-            "company": "Natera",
-            "location": "USA",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149069-customer-experience-associate-temporary",
-            "tags": [],
-            "posted_at": "2026-07-09T12:54:18+00:00"
-        },
-        {
-            "id": 244,
-            "source": "jobicy",
-            "title": "Senior Customer Solution Engineer \u2014 AI Native/Consumption Quote to Cash",
-            "company": "Zuora",
-            "location": "USA",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149068-senior-customer-solution-engineer-ai-native-consumption-quote-to-cash",
-            "tags": [],
-            "posted_at": "2026-07-09T12:54:16+00:00"
-        },
-        {
-            "id": 245,
-            "source": "jobicy",
-            "title": "(fluent English & Polish) Customer Support Consultant",
-            "company": "SupportYourApp",
-            "location": "Poland,  Ukraine",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149067-fluent-english-polish-customer-support-consultant",
-            "tags": [],
-            "posted_at": "2026-07-09T12:54:15+00:00"
-        },
-        {
-            "id": 246,
-            "source": "jobicy",
-            "title": "Customer Success Engineer",
-            "company": "Tailscale",
-            "location": "USA",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149066-customer-success-engineer-3",
-            "tags": [],
-            "posted_at": "2026-07-09T12:54:13+00:00"
         },
         {
             "id": 1650,
@@ -2405,50 +2592,6 @@
             "posted_at": "2026-07-09T12:04:59+00:00"
         },
         {
-            "id": 247,
-            "source": "jobicy",
-            "title": "CSS TSSM Travel Technology Specialist",
-            "company": "BCD Travel",
-            "location": "Europe,  Spain",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149065-css-tssm-travel-technology-specialist-2",
-            "tags": [],
-            "posted_at": "2026-07-09T11:50:22+00:00"
-        },
-        {
-            "id": 248,
-            "source": "jobicy",
-            "title": "Legal Counsel",
-            "company": "Skylum",
-            "location": "Europe,  Ukraine",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149064-legal-counsel",
-            "tags": [],
-            "posted_at": "2026-07-09T11:50:20+00:00"
-        },
-        {
-            "id": 249,
-            "source": "jobicy",
-            "title": "Machine Learning Engineer",
-            "company": "Skylum",
-            "location": "Europe,  Ukraine",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149063-machine-learning-engineer-4",
-            "tags": [],
-            "posted_at": "2026-07-09T11:50:19+00:00"
-        },
-        {
-            "id": 250,
-            "source": "jobicy",
-            "title": "Software Engineer",
-            "company": "Enode",
-            "location": "Europe,  Norway",
-            "is_remote": true,
-            "url": "https://jobicy.com/jobs/149062-software-engineer",
-            "tags": [],
-            "posted_at": "2026-07-09T11:50:17+00:00"
-        },
-        {
             "id": 1639,
             "source": "lever",
             "title": "Manager \u2013 Internal Audit",
@@ -2460,7 +2603,7 @@
             "posted_at": "2026-07-09T11:29:21+00:00"
         },
         {
-            "id": 11,
+            "id": 24,
             "source": "remoteok",
             "title": "Firefighter ARFF",
             "company": "Adani Airport Holdings Ltd",
@@ -2482,7 +2625,7 @@
             "posted_at": "2026-07-09T10:46:45+00:00"
         },
         {
-            "id": 12,
+            "id": 25,
             "source": "remoteok",
             "title": "Junior Ecommerce Specialist",
             "company": "Haystack",
@@ -2548,7 +2691,7 @@
             "posted_at": "2026-07-09T08:01:56+00:00"
         },
         {
-            "id": 13,
+            "id": 26,
             "source": "remoteok",
             "title": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
             "company": "BuscarVagas - Empregos Brasil",
@@ -2559,7 +2702,7 @@
             "posted_at": "2026-07-09T07:40:19+00:00"
         },
         {
-            "id": 14,
+            "id": 27,
             "source": "remoteok",
             "title": "Houseperson",
             "company": "Accor",
@@ -2603,7 +2746,7 @@
             "posted_at": "2026-07-09T03:30:53+00:00"
         },
         {
-            "id": 15,
+            "id": 28,
             "source": "remoteok",
             "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
             "company": "Bellwether Group",
@@ -2614,7 +2757,7 @@
             "posted_at": "2026-07-09T02:27:51+00:00"
         },
         {
-            "id": 16,
+            "id": 29,
             "source": "remoteok",
             "title": "Coordinador de Medio Ambiente y Desarrollo Comunitario",
             "company": "Wisefind",
@@ -2625,7 +2768,7 @@
             "posted_at": "2026-07-09T02:19:04+00:00"
         },
         {
-            "id": 17,
+            "id": 30,
             "source": "remoteok",
             "title": "Con o Sin Exp. ATC Remoto Turno Tarde Salario fijo+Variable Firma Contrato con Planilla Completa",
             "company": "Netcall Group",
@@ -2636,7 +2779,7 @@
             "posted_at": "2026-07-09T01:07:33+00:00"
         },
         {
-            "id": 18,
+            "id": 31,
             "source": "remoteok",
             "title": "Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto",
             "company": "Universidad Privada del Norte",
@@ -2647,7 +2790,7 @@
             "posted_at": "2026-07-09T01:06:09+00:00"
         },
         {
-            "id": 19,
+            "id": 32,
             "source": "remoteok",
             "title": "Docente Tiempo Parcial Elaboraci\u00c3\u00b3n Materiales Educativos Nivel Primaria SJL",
             "company": "Universidad Privada del Norte",
@@ -2658,7 +2801,7 @@
             "posted_at": "2026-07-09T01:04:54+00:00"
         },
         {
-            "id": 20,
+            "id": 33,
             "source": "remoteok",
             "title": "Docente Tiempo Parcial Elaboraci\u00c3\u00b3n Materiales Educativos Primera Infancia SJL",
             "company": "Universidad Privada del Norte",
@@ -2669,7 +2812,7 @@
             "posted_at": "2026-07-09T01:04:44+00:00"
         },
         {
-            "id": 21,
+            "id": 34,
             "source": "remoteok",
             "title": "Dispatch Coordinator I",
             "company": "Belle",
@@ -2680,7 +2823,7 @@
             "posted_at": "2026-07-09T00:57:47+00:00"
         },
         {
-            "id": 22,
+            "id": 35,
             "source": "remoteok",
             "title": "Pesquisador em Teoria da Mudan\u00c3\u00a7a",
             "company": "Instituto Cordial",
@@ -2691,7 +2834,7 @@
             "posted_at": "2026-07-09T00:51:09+00:00"
         },
         {
-            "id": 23,
+            "id": 36,
             "source": "remoteok",
             "title": "Non USA",
             "company": "New Relic",
@@ -2702,7 +2845,7 @@
             "posted_at": "2026-07-09T00:48:36+00:00"
         },
         {
-            "id": 24,
+            "id": 37,
             "source": "remoteok",
             "title": "Founder's Office Finance Super App",
             "company": "Bjak ",
@@ -2713,7 +2856,7 @@
             "posted_at": "2026-07-09T00:00:04+00:00"
         },
         {
-            "id": 25,
+            "id": 38,
             "source": "remoteok",
             "title": "General Consideration",
             "company": "CertaSite",
@@ -2746,7 +2889,7 @@
             "posted_at": "2026-07-08T23:38:23+00:00"
         },
         {
-            "id": 26,
+            "id": 39,
             "source": "remoteok",
             "title": "Barista",
             "company": "Spark",
@@ -2768,7 +2911,7 @@
             "posted_at": "2026-07-08T21:48:18+00:00"
         },
         {
-            "id": 27,
+            "id": 40,
             "source": "remoteok",
             "title": "SLT HDFC BB Delhi",
             "company": "Aditya Birla Capital",
@@ -2779,7 +2922,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 28,
+            "id": 41,
             "source": "remoteok",
             "title": "SLT HDFC BB Ludhiana",
             "company": "Aditya Birla Capital",
@@ -2790,7 +2933,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 29,
+            "id": 42,
             "source": "remoteok",
             "title": "SLT HDFC BB Pondicherry",
             "company": "Aditya Birla Capital",
@@ -2801,7 +2944,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 30,
+            "id": 43,
             "source": "remoteok",
             "title": "SLT HDFC BB Chennai",
             "company": "Aditya Birla Capital",
@@ -2812,7 +2955,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 31,
+            "id": 44,
             "source": "remoteok",
             "title": "SLT HDFC BB Mumbai",
             "company": "Aditya Birla Capital",
@@ -2823,7 +2966,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 32,
+            "id": 45,
             "source": "remoteok",
             "title": "SLT HDFC BB Ahmedabad",
             "company": "Aditya Birla Capital",
@@ -2834,7 +2977,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 33,
+            "id": 46,
             "source": "remoteok",
             "title": "SLT HDFC BB Bangalore",
             "company": "Aditya Birla Capital",
@@ -2845,7 +2988,7 @@
             "posted_at": "2026-07-08T21:32:49+00:00"
         },
         {
-            "id": 34,
+            "id": 47,
             "source": "remoteok",
             "title": "Accounts Assistant",
             "company": "CXC Upstream Ltd",
@@ -2900,7 +3043,7 @@
             "posted_at": "2026-07-08T19:44:58+00:00"
         },
         {
-            "id": 35,
+            "id": 48,
             "source": "remoteok",
             "title": "Freelance Background Artist for YouTube Studio",
             "company": "Newscape Studios inc.",
@@ -2911,7 +3054,7 @@
             "posted_at": "2026-07-08T19:42:56+00:00"
         },
         {
-            "id": 36,
+            "id": 49,
             "source": "remoteok",
             "title": "Territory Sales Manager",
             "company": "CELSIUS",
@@ -2922,7 +3065,7 @@
             "posted_at": "2026-07-08T19:06:22+00:00"
         },
         {
-            "id": 37,
+            "id": 50,
             "source": "remoteok",
             "title": "\u00c2\u00a0SUPERVISEUR 31 94",
             "company": "The Home Depot Canada",
@@ -2944,7 +3087,7 @@
             "posted_at": "2026-07-08T17:48:38+00:00"
         },
         {
-            "id": 38,
+            "id": 51,
             "source": "remoteok",
             "title": "Analista Marketing JR Social Media",
             "company": "Bradesco",
@@ -2977,7 +3120,7 @@
             "posted_at": "2026-07-08T17:30:41+00:00"
         },
         {
-            "id": 39,
+            "id": 52,
             "source": "remoteok",
             "title": "Analista de Recrutamento e Sele\u00c3\u00a7\u00c3\u00a3o Comercial J\u00c3\u00banior",
             "company": "Stone",
@@ -2988,7 +3131,7 @@
             "posted_at": "2026-07-08T17:20:38+00:00"
         },
         {
-            "id": 40,
+            "id": 53,
             "source": "remoteok",
             "title": "Project Coordinator",
             "company": "Franklin Fitch",
@@ -3043,7 +3186,7 @@
             "posted_at": "2026-07-08T16:38:25+00:00"
         },
         {
-            "id": 41,
+            "id": 54,
             "source": "remoteok",
             "title": "Controller Financiero",
             "company": "Veolia",
@@ -3098,7 +3241,7 @@
             "posted_at": "2026-07-08T15:38:50+00:00"
         },
         {
-            "id": 42,
+            "id": 55,
             "source": "remoteok",
             "title": "Test 1 posting",
             "company": "Sonic Healthcare UK",
@@ -3142,7 +3285,7 @@
             "posted_at": "2026-07-08T14:57:40+00:00"
         },
         {
-            "id": 43,
+            "id": 56,
             "source": "remoteok",
             "title": "Attractions Instructor",
             "company": "Royal Caribbean International",
@@ -3164,7 +3307,7 @@
             "posted_at": "2026-07-08T14:51:15+00:00"
         },
         {
-            "id": 44,
+            "id": 57,
             "source": "remoteok",
             "title": "Joiner Multi",
             "company": "United Infrastructure Ltd",
@@ -3241,7 +3384,7 @@
             "posted_at": "2026-07-08T14:00:05+00:00"
         },
         {
-            "id": 45,
+            "id": 58,
             "source": "remoteok",
             "title": "Events Manager",
             "company": "Lantern",
@@ -3252,7 +3395,7 @@
             "posted_at": "2026-07-08T13:51:13+00:00"
         },
         {
-            "id": 46,
+            "id": 59,
             "source": "remoteok",
             "title": "Influencer &amp; Community Marketing Executive",
             "company": "UBT",
@@ -3263,7 +3406,7 @@
             "posted_at": "2026-07-08T13:46:28+00:00"
         },
         {
-            "id": 47,
+            "id": 60,
             "source": "remoteok",
             "title": "Data center technician Dispatch",
             "company": "Sharp Brains",
@@ -3331,7 +3474,7 @@
             "posted_at": "2026-07-08T11:14:18+00:00"
         },
         {
-            "id": 48,
+            "id": 61,
             "source": "remoteok",
             "title": "Mali",
             "company": "Ghar",
@@ -3342,7 +3485,7 @@
             "posted_at": "2026-07-08T11:10:49+00:00"
         },
         {
-            "id": 49,
+            "id": 62,
             "source": "remoteok",
             "title": "Vendor Partner Lead",
             "company": "LinkedIn",
@@ -3353,7 +3496,7 @@
             "posted_at": "2026-07-08T09:17:27+00:00"
         },
         {
-            "id": 50,
+            "id": 63,
             "source": "remoteok",
             "title": "Test",
             "company": "Solvay",
@@ -3364,7 +3507,7 @@
             "posted_at": "2026-07-08T08:17:30+00:00"
         },
         {
-            "id": 51,
+            "id": 64,
             "source": "remoteok",
             "title": "Social Content Lead",
             "company": "KAST",
@@ -3375,7 +3518,7 @@
             "posted_at": "2026-07-08T07:25:40+00:00"
         },
         {
-            "id": 52,
+            "id": 65,
             "source": "remoteok",
             "title": "RESTAURANT JOBS",
             "company": "Boudin Bakery Cafe",
@@ -3386,7 +3529,7 @@
             "posted_at": "2026-07-08T07:11:58+00:00"
         },
         {
-            "id": 53,
+            "id": 66,
             "source": "remoteok",
             "title": "Social Media Manager",
             "company": "Digital",
@@ -3408,7 +3551,7 @@
             "posted_at": "2026-07-08T05:08:02+00:00"
         },
         {
-            "id": 54,
+            "id": 67,
             "source": "remoteok",
             "title": "Architectural Drafter Designer",
             "company": "OnlineJobs.PH",
@@ -3419,7 +3562,7 @@
             "posted_at": "2026-07-08T04:52:46+00:00"
         },
         {
-            "id": 55,
+            "id": 68,
             "source": "remoteok",
             "title": "Data Entry Specialist Assistant Administrator",
             "company": "ReLytics Hire",
@@ -3430,7 +3573,7 @@
             "posted_at": "2026-07-08T04:45:53+00:00"
         },
         {
-            "id": 56,
+            "id": 69,
             "source": "remoteok",
             "title": "Virtual Executive Assistant",
             "company": "ReLytics Hire",
@@ -3441,7 +3584,7 @@
             "posted_at": "2026-07-08T04:43:41+00:00"
         },
         {
-            "id": 57,
+            "id": 70,
             "source": "remoteok",
             "title": "Customer Support",
             "company": "ReLytics Hire",
@@ -3452,7 +3595,7 @@
             "posted_at": "2026-07-08T04:20:43+00:00"
         },
         {
-            "id": 58,
+            "id": 71,
             "source": "remoteok",
             "title": "Entry Level Administrative Assistant",
             "company": "ReLytics Hire",
@@ -3463,7 +3606,7 @@
             "posted_at": "2026-07-08T04:20:26+00:00"
         },
         {
-            "id": 59,
+            "id": 72,
             "source": "remoteok",
             "title": "Project Manager",
             "company": "Queensland Government",
@@ -3474,7 +3617,7 @@
             "posted_at": "2026-07-08T03:40:10+00:00"
         },
         {
-            "id": 60,
+            "id": 73,
             "source": "remoteok",
             "title": "Data Entry Typist",
             "company": "Argus Medical Management, LLC",
@@ -3485,7 +3628,7 @@
             "posted_at": "2026-07-08T03:30:47+00:00"
         },
         {
-            "id": 61,
+            "id": 74,
             "source": "remoteok",
             "title": "RTW Driver",
             "company": "Parkland Corporation",
@@ -3507,7 +3650,7 @@
             "posted_at": "2026-07-08T00:41:26+00:00"
         },
         {
-            "id": 62,
+            "id": 75,
             "source": "remoteok",
             "title": "Asset Management Specialist Water Wastewater Treatment",
             "company": "Woodard &amp; Curran",
@@ -3529,7 +3672,7 @@
             "posted_at": "2026-07-07T22:22:00+00:00"
         },
         {
-            "id": 63,
+            "id": 76,
             "source": "remoteok",
             "title": "12 jobs that pay well without a degree",
             "company": "Unigo",
@@ -3540,7 +3683,7 @@
             "posted_at": "2026-07-07T22:20:28+00:00"
         },
         {
-            "id": 64,
+            "id": 77,
             "source": "remoteok",
             "title": "Medical Writer Scientific Communications",
             "company": "Prime",
@@ -3551,7 +3694,7 @@
             "posted_at": "2026-07-07T22:19:33+00:00"
         },
         {
-            "id": 65,
+            "id": 78,
             "source": "remoteok",
             "title": "Social Media Manager TikTok and Founder",
             "company": "Once Upon a Farm",
@@ -3584,7 +3727,7 @@
             "posted_at": "2026-07-07T20:47:09+00:00"
         },
         {
-            "id": 66,
+            "id": 79,
             "source": "remoteok",
             "title": "Creative Strategist",
             "company": "Ramen Bae",
@@ -3628,7 +3771,7 @@
             "posted_at": "2026-07-07T20:05:33+00:00"
         },
         {
-            "id": 67,
+            "id": 80,
             "source": "remoteok",
             "title": "Assistente Financeiro",
             "company": "Sicoob",
@@ -3639,7 +3782,7 @@
             "posted_at": "2026-07-07T20:02:48+00:00"
         },
         {
-            "id": 68,
+            "id": 81,
             "source": "remoteok",
             "title": "Lead Paralegal",
             "company": "Finch",
@@ -3661,7 +3804,7 @@
             "posted_at": "2026-07-07T19:59:45+00:00"
         },
         {
-            "id": 69,
+            "id": 82,
             "source": "remoteok",
             "title": "Director Educational Partnerships",
             "company": "Sonic Automotive",
@@ -3685,7 +3828,7 @@
             "posted_at": "2026-07-07T19:28:52+00:00"
         },
         {
-            "id": 70,
+            "id": 83,
             "source": "remoteok",
             "title": "\u00c2\u00a0SUPERVISEUR 26 27",
             "company": "The Home Depot Canada",
@@ -3696,7 +3839,7 @@
             "posted_at": "2026-07-07T19:03:57+00:00"
         },
         {
-            "id": 71,
+            "id": 84,
             "source": "remoteok",
             "title": "\u00c2\u00a0SUPERVISEUR 25",
             "company": "The Home Depot Canada",
@@ -3779,7 +3922,7 @@
             "posted_at": "2026-07-07T17:25:20+00:00"
         },
         {
-            "id": 72,
+            "id": 85,
             "source": "remoteok",
             "title": "Compliance Market Surveillance Analyst",
             "company": "Crypto.com",
@@ -3872,7 +4015,7 @@
             "posted_at": "2026-07-07T15:43:15+00:00"
         },
         {
-            "id": 73,
+            "id": 86,
             "source": "remoteok",
             "title": "Human Resources Administrative Coordinator",
             "company": "Enstar Group",
@@ -3916,7 +4059,7 @@
             "posted_at": "2026-07-07T13:25:51+00:00"
         },
         {
-            "id": 74,
+            "id": 87,
             "source": "remoteok",
             "title": "Freelance T\u00c3\u00a9cnico Audiovisual Sevilla",
             "company": "OpenWebinars",
@@ -3927,7 +4070,7 @@
             "posted_at": "2026-07-07T13:23:32+00:00"
         },
         {
-            "id": 75,
+            "id": 88,
             "source": "remoteok",
             "title": "CAD Assistant",
             "company": "RecruitGo Careers",
@@ -3938,7 +4081,7 @@
             "posted_at": "2026-07-07T13:23:31+00:00"
         },
         {
-            "id": 76,
+            "id": 89,
             "source": "remoteok",
             "title": "Creative Director YouTube",
             "company": "Flick",
@@ -3949,7 +4092,7 @@
             "posted_at": "2026-07-07T13:11:18+00:00"
         },
         {
-            "id": 77,
+            "id": 90,
             "source": "remoteok",
             "title": "Regional Training Supervisor",
             "company": "Guild Garage Group",
@@ -3960,7 +4103,7 @@
             "posted_at": "2026-07-07T12:51:48+00:00"
         },
         {
-            "id": 78,
+            "id": 91,
             "source": "remoteok",
             "title": "Senior Vice President &amp; General Manager Senior Living",
             "company": "PointClickCare",
@@ -3993,7 +4136,7 @@
             "posted_at": "2026-07-07T10:49:34+00:00"
         },
         {
-            "id": 79,
+            "id": 92,
             "source": "remoteok",
             "title": "Replacement for Joe test",
             "company": "Infinity Group",
@@ -4026,7 +4169,7 @@
             "posted_at": "2026-07-07T10:21:00+00:00"
         },
         {
-            "id": 80,
+            "id": 93,
             "source": "remoteok",
             "title": "Associate Data Analyst",
             "company": "Arabian Private Holdings",
@@ -4048,7 +4191,7 @@
             "posted_at": "2026-07-07T10:02:41+00:00"
         },
         {
-            "id": 81,
+            "id": 94,
             "source": "remoteok",
             "title": "Speculative Applications",
             "company": "ITDev",
@@ -4059,7 +4202,7 @@
             "posted_at": "2026-07-07T09:36:41+00:00"
         },
         {
-            "id": 82,
+            "id": 95,
             "source": "remoteok",
             "title": "Junior Business Analyst",
             "company": "Arabian Private Holdings",
@@ -4081,7 +4224,7 @@
             "posted_at": "2026-07-07T09:04:10+00:00"
         },
         {
-            "id": 83,
+            "id": 96,
             "source": "remoteok",
             "title": "Online Bidder",
             "company": "Digitex Technologies",
@@ -4092,7 +4235,7 @@
             "posted_at": "2026-07-07T07:38:19+00:00"
         },
         {
-            "id": 84,
+            "id": 97,
             "source": "remoteok",
             "title": "Designer",
             "company": "Archisearch",
@@ -4114,7 +4257,7 @@
             "posted_at": "2026-07-07T05:47:11+00:00"
         },
         {
-            "id": 85,
+            "id": 98,
             "source": "remoteok",
             "title": "Paid Media Specialist Meta & Google Ads",
             "company": "Noventra Group",
@@ -4158,7 +4301,7 @@
             "posted_at": "2026-07-07T04:48:48+00:00"
         },
         {
-            "id": 86,
+            "id": 99,
             "source": "remoteok",
             "title": "Custodian",
             "company": "Hospitality Newfoundland and Labrador",
@@ -4202,7 +4345,7 @@
             "posted_at": "2026-07-07T01:52:08+00:00"
         },
         {
-            "id": 87,
+            "id": 100,
             "source": "remoteok",
             "title": "Lifeguard",
             "company": "Accor",
@@ -4211,72 +4354,6 @@
             "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-accor-1134547",
             "tags": [],
             "posted_at": "2026-07-07T01:38:08+00:00"
-        },
-        {
-            "id": 88,
-            "source": "remoteok",
-            "title": "Docente Tiempo Parcial Derecho Tributario Remoto",
-            "company": "Universidad Privada del Norte",
-            "location": "Santiago de Surco, Santiago de Surco, Per\u00c3\u00ba",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-tributario-remoto-universidad-privada-del-norte-1134616",
-            "tags": [],
-            "posted_at": "2026-07-07T01:06:47+00:00"
-        },
-        {
-            "id": 89,
-            "source": "remoteok",
-            "title": "Docente Tiempo Parcial Derecho Penal Remoto",
-            "company": "Universidad Privada del Norte",
-            "location": "Santiago de Surco, Santiago de Surco, Per\u00c3\u00ba",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-penal-remoto-universidad-privada-del-norte-1134614",
-            "tags": [],
-            "posted_at": "2026-07-07T01:05:42+00:00"
-        },
-        {
-            "id": 90,
-            "source": "remoteok",
-            "title": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
-            "company": "Mercier Consultancy",
-            "location": null,
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
-            "tags": [],
-            "posted_at": "2026-07-07T00:00:08+00:00"
-        },
-        {
-            "id": 91,
-            "source": "remoteok",
-            "title": "eLearning Developer",
-            "company": "The Learning Network",
-            "location": "London, London, Ontario, Canada",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-elearning-developer-the-learning-network-1134666",
-            "tags": [],
-            "posted_at": "2026-07-07T00:00:00+00:00"
-        },
-        {
-            "id": 92,
-            "source": "remoteok",
-            "title": "Multi Trader",
-            "company": "B&amp;R HOME",
-            "location": "London, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-multi-trader-bampr-home-1134574",
-            "tags": [],
-            "posted_at": "2026-07-06T23:13:15+00:00"
-        },
-        {
-            "id": 93,
-            "source": "remoteok",
-            "title": "Testing Testing Test",
-            "company": "Gold Standard",
-            "location": "Gold Coast, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-testing-testing-test-gold-standard-1134544",
-            "tags": [],
-            "posted_at": "2026-07-06T22:58:27+00:00"
         },
         {
             "id": 937,
@@ -4288,61 +4365,6 @@
             "url": "https://www.coinbase.com/careers/positions/8047657?gh_jid=8047657",
             "tags": [],
             "posted_at": "2026-07-06T22:39:24+00:00"
-        },
-        {
-            "id": 94,
-            "source": "remoteok",
-            "title": "Tutor Virtual Matem\u00c3\u00a1ticas",
-            "company": "Universidad del Valle de Guatemala",
-            "location": "Guatemala, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-tutor-virtual-matematicas-universidad-del-valle-de-guatemala-1134593",
-            "tags": [],
-            "posted_at": "2026-07-06T22:29:30+00:00"
-        },
-        {
-            "id": 95,
-            "source": "remoteok",
-            "title": "Customer Success Manager",
-            "company": "CWILL",
-            "location": "Toronto, Toronto, Ontario, Canada",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-cwill-1134684",
-            "tags": [],
-            "posted_at": "2026-07-06T22:18:49+00:00"
-        },
-        {
-            "id": 96,
-            "source": "remoteok",
-            "title": "Operations Supervisor Healthcare South Georgia",
-            "company": "Belle",
-            "location": "Fairburn, Fairburn, Georgia, United States",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-south-georgia-belle-1134553",
-            "tags": [],
-            "posted_at": "2026-07-06T20:44:27+00:00"
-        },
-        {
-            "id": 97,
-            "source": "remoteok",
-            "title": "Construction Inspector",
-            "company": "AECOM",
-            "location": "Christ Church, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-construction-inspector-aecom-1134555",
-            "tags": [],
-            "posted_at": "2026-07-06T20:15:34+00:00"
-        },
-        {
-            "id": 98,
-            "source": "remoteok",
-            "title": "Attach\u00c3\u00a9 Juridique F H",
-            "company": "AFE (Audit Finance Expert)",
-            "location": "Castelnau-le-lez, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-attache-juridique-f-h-afe-audit-finance-expert-1134564",
-            "tags": [],
-            "posted_at": "2026-07-06T19:33:59+00:00"
         },
         {
             "id": 1897,
@@ -4398,28 +4420,6 @@
             "url": "https://stripe.com/jobs/search?gh_jid=8027573",
             "tags": [],
             "posted_at": "2026-07-06T16:49:44+00:00"
-        },
-        {
-            "id": 99,
-            "source": "remoteok",
-            "title": "Operator Red days",
-            "company": "Princes Group",
-            "location": "Wisbech, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
-            "tags": [],
-            "posted_at": "2026-07-06T16:39:21+00:00"
-        },
-        {
-            "id": 100,
-            "source": "remoteok",
-            "title": "Skilled Operator blue shift days",
-            "company": "Princes Group",
-            "location": "Wisbech, ",
-            "is_remote": true,
-            "url": "https://remoteOK.com/remote-jobs/remote-skilled-operator-blue-shift-days-princes-group-1134575",
-            "tags": [],
-            "posted_at": "2026-07-06T16:39:21+00:00"
         },
         {
             "id": 691,
@@ -9097,28 +9097,6 @@
             "url": "https://stripe.com/jobs/search?gh_jid=7984866",
             "tags": [],
             "posted_at": "2026-06-11T09:20:38+00:00"
-        },
-        {
-            "id": 1923,
-            "source": "ashby",
-            "title": "APAC Campaigns & Content Lead",
-            "company": "Notion",
-            "location": "Sydney, Australia",
-            "is_remote": true,
-            "url": "https://jobs.ashbyhq.com/notion/fef0c5d0-6744-40e6-aeae-0c5644f6af5e",
-            "tags": [],
-            "posted_at": "2026-06-11T05:43:39+00:00"
-        },
-        {
-            "id": 1922,
-            "source": "ashby",
-            "title": "Customer Support - Billing",
-            "company": "Notion",
-            "location": "Hyderabad, India",
-            "is_remote": true,
-            "url": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
-            "tags": [],
-            "posted_at": "2026-06-11T04:17:16+00:00"
         }
     ]
 }
